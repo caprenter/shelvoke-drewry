@@ -1,0 +1,6 @@
+This is <span markdown="1">*text*
+This is <span markdown="0">*text*
+This is <span markdown="span">*text*
+This is <span markdown="block">*text*
+This is <span markdown="0">*nothing* <strong markdown="1">to *fear*</strong> about.
+This is <span markdown="0"><http://example.com>.

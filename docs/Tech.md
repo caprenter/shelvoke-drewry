@@ -9,7 +9,7 @@ background: '/assets/Images4/F1.jpg'
 # 1. The SD Freighter
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/F1.jpg" class="figure-img img-fluid rounded" alt="The SD Freighter">
+  <img src="{{ site.baseurl }}/assets/Images4/F1.jpg" class="figure-img img-fluid rounded" alt="The SD Freighter">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -18,16 +18,16 @@ Among the unique features of the Shelvoke &amp; Drewry Freighter were the <b>low
 # 2. The Fore &amp; Aft Tipper
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/F%26A1.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
+  <img src="{{ site.baseurl }}/assets/Images4/F%26A1.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
-Before the Second World War Shelvoke &amp; Drewry introduced the Fore &amp; Aft tipper on the Mk II Freighter chassis. The concept came from Faun in Germany and was used under licence. After the War there was a significant move towards a decrease in the density of refuse as coal fires became less popular and packaging of goods increased. So with the introduction of the ['W' Type]({% link VW.md %}) chassis the Fore &amp; Aft body was offered and soon became very popular.
+Before the Second World War Shelvoke &amp; Drewry introduced the Fore &amp; Aft tipper on the Mk II Freighter chassis. The concept came from Faun in Germany and was used under licence. After the War there was a significant move towards a decrease in the density of refuse as coal fires became less popular and packaging of goods increased. So with the introduction of the ['W' Type]({{site.baseurl}}{% link VW.md %}) chassis the Fore &amp; Aft body was offered and soon became very popular.
 
 The body was mounted on an <b>auxiliary sub frame</b> which locked to the chassis when forward tipping to consolidate the load. From 1951 a hydraulic pressure plate mounted in the roof of the body was also offered to give additional compaction of the load. This was known as the<b> Power Press</b> version.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/F%26A2.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
+  <img src="{{ site.baseurl }}/assets/Images4/F%26A2.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -39,20 +39,20 @@ For discharging the load the <b>auxiliary sub frame</b> was unlocked from the ch
 <div class="row">
 <div class="col-sm-6" markdown="1">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/P1.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
+  <img src="{{ site.baseurl }}/assets/Images4/P1.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
   <figcaption class="figure-caption text-center">DIAGRAM A.</figcaption>
 </figure>
 </div>
 <div class="col-sm-6">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/P2.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
+  <img src="{{ site.baseurl }}/assets/Images4/P2.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
   <figcaption class="figure-caption text-center">DIAGRAM B.</figcaption>
 </figure>
 </div>
 </div>
 </div>
 
-The Pakamatic introduced on Shelvoke &amp; Drewry's new ['T' Type]({% link VT.md %}) chassis in 1960 was based on the French Rey design. <b>A reciprocating packer plate</b> in the vehicle's rear hopper continuously moved refuse from the hopper into the body of the vehicle. The design of this packer plate ensured that the refuse continued to be consolidated towards the front of the vehicle. The packer plate was the only moving part in contact with the refuse. Diagram A shows the packer plate at the rear extent of its travel ready to push the refuse forwards. In Diagram B the packer plate is at the other extreme of its travel. Fresh refuse has accumulated on top of the carriage where it will fall in front of the packer plate when it reaches its return rearwards. Compression ratios of 2.5:1 were achieved.
+The Pakamatic introduced on Shelvoke &amp; Drewry's new ['T' Type]({{site.baseurl}}{% link VT.md %}) chassis in 1960 was based on the French Rey design. <b>A reciprocating packer plate</b> in the vehicle's rear hopper continuously moved refuse from the hopper into the body of the vehicle. The design of this packer plate ensured that the refuse continued to be consolidated towards the front of the vehicle. The packer plate was the only moving part in contact with the refuse. Diagram A shows the packer plate at the rear extent of its travel ready to push the refuse forwards. In Diagram B the packer plate is at the other extreme of its travel. Fresh refuse has accumulated on top of the carriage where it will fall in front of the packer plate when it reaches its return rearwards. Compression ratios of 2.5:1 were achieved.
 
 For discharging the refuse<b> the body was tipped by a hydraulic ram</b> with the rear hopper lifting to give a clear passageway for the refuse.
 
@@ -63,7 +63,7 @@ Where discharge of the refuse took place on uneven or soft ground it was found t
 # 5. The Revopak
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/R1.jpg" class="figure-img img-fluid rounded" alt="The Revopak">
+  <img src="{{ site.baseurl }}/assets/Images4/R1.jpg" class="figure-img img-fluid rounded" alt="The Revopak">
   <!-- <figcaption class="figure-caption text-center">DIAGRAM B.</figcaption> -->
 </figure>
 
@@ -76,19 +76,19 @@ In 1971 Shelvoke &amp; Drewry introduced the Revopak as a replacement for the Pa
 <div class="d-flex flex-wrap">
 <div class="col-sm-4" markdown="1">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/R2.jpg" class="figure-img img-fluid rounded" alt="The Revopak">
+  <img src="{{ site.baseurl }}/assets/Images4/R2.jpg" class="figure-img img-fluid rounded" alt="The Revopak">
   <figcaption class="figure-caption text-center">1.</figcaption>
 </figure>
 </div>
 <div class="col-sm-4">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/R3.jpg" class="figure-img img-fluid rounded" alt="The Revopak">
+  <img src="{{ site.baseurl }}/assets/Images4/R3.jpg" class="figure-img img-fluid rounded" alt="The Revopak">
   <figcaption class="figure-caption text-center">2.</figcaption>
 </figure>
 </div>
 <div class="col-sm-4">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/R4.jpg" class="figure-img img-fluid rounded" alt="The Revopak">
+  <img src="{{ site.baseurl }}/assets/Images4/R4.jpg" class="figure-img img-fluid rounded" alt="The Revopak">
   <figcaption class="figure-caption text-center">3.</figcaption>
 </figure>
 </div>
@@ -102,7 +102,7 @@ The Revopak was highly successful in breaking down bulky refuse and **compressio
 # 6 The Intapak
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/I1.jpg" class="figure-img img-fluid rounded" alt="The Intapak">
+  <img src="{{ site.baseurl }}/assets/Images4/I1.jpg" class="figure-img img-fluid rounded" alt="The Intapak">
   <!-- <figcaption class="figure-caption text-center">3.</figcaption> -->
 </figure>
 
@@ -113,7 +113,7 @@ The Revopak was highly successful in breaking down bulky refuse and **compressio
 # 7. The Maxipak
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/M5.jpg" class="figure-img img-fluid rounded" alt="The Maxipak">
+  <img src="{{ site.baseurl }}/assets/Images4/M5.jpg" class="figure-img img-fluid rounded" alt="The Maxipak">
   <!-- <figcaption class="figure-caption text-center">3.</figcaption> -->
 </figure>
 
@@ -123,25 +123,25 @@ Shelvoke &amp; Drewry's next version of an <b>intermittent loader</b> was the Ma
 <div class="d-flex flex-wrap">
 <div class="col-sm-6" markdown="1">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/M1.jpg" class="figure-img img-fluid rounded" alt="T1. Sweeper blade retracts.">
+  <img src="{{ site.baseurl }}/assets/Images4/M1.jpg" class="figure-img img-fluid rounded" alt="T1. Sweeper blade retracts.">
   <figcaption class="figure-caption text-center">1. Sweeper blade retracts.</figcaption>
 </figure>
 </div>
 <div class="col-sm-6">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/M2.jpg" class="figure-img img-fluid rounded" alt="2. Packer plate lowers.">
+  <img src="{{ site.baseurl }}/assets/Images4/M2.jpg" class="figure-img img-fluid rounded" alt="2. Packer plate lowers.">
   <figcaption class="figure-caption text-center">2. Packer plate lowers.</figcaption>
 </figure>
 </div>
 <div class="col-sm-6">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/M3.jpg" class="figure-img img-fluid rounded" alt="3. Sweeper blade compresses.">
+  <img src="{{ site.baseurl }}/assets/Images4/M3.jpg" class="figure-img img-fluid rounded" alt="3. Sweeper blade compresses.">
   <figcaption class="figure-caption text-center">3. Sweeper blade compresses.</figcaption>
 </figure>
 </div>
 <div class="col-sm-6">
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images4/M4.jpg" class="figure-img img-fluid rounded" alt="4. Packer plate raises.">
+  <img src="{{ site.baseurl }}/assets/Images4/M4.jpg" class="figure-img img-fluid rounded" alt="4. Packer plate raises.">
   <figcaption class="figure-caption text-center">4. Packer plate raises.</figcaption>
 </figure>
 </div>

@@ -7,4 +7,4 @@ title: Enthusiasts 2 (Page Moved)
 background: '/assets/Images3/pic09.jpg'
 ---
 
-This page has been moved to [Enthusiast's Club]({% link Enthusiasts.md %}#volume-2-issue-51-autumn-2023)
+This page has been moved to [Enthusiast's Club]({{site.baseurl}}{% link Enthusiasts.md %}#volume-2-issue-51-autumn-2023)

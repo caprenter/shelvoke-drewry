@@ -21,7 +21,7 @@ Within 10 years of the founding Shelvoke & Drewry the company employed 350 peopl
 The SD Freighter, jointly conceived by Harry Shelvoke and James Drewry, was superior to anything that competitors could offer in its day. Its simplicity of control, low loading height, economy of operation, and advanced features such as automatic lubrication, clutchless gear changing and hydraulic tipping mark the Freighter as a historic stage in the evolution of vehicle design.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/1922%20Freighter.jpg" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
+  <img src="{{ site.baseurl }}/assets/Images/1922%20Freighter.jpg" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
   <figcaption class="figure-caption text-center">Preserved vehicle restored to 1922 condition.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Sound engineering principles were more than amply demonstrated in the long servi
 # S&D's Contribution to the War effort 1939-45.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/Factory%201.jpg" class="figure-img img-fluid rounded" alt="S&amp;D's Icknield Way Works">
+  <img src="{{ site.baseurl }}/assets/Images/Factory%201.jpg" class="figure-img img-fluid rounded" alt="S&amp;D's Icknield Way Works">
   <figcaption class="figure-caption text-center">S&amp;D's Icknield Way Works</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Made in relatively small numbers, the weekly visit of the dustman is recalled by
 In a great measure due to Channel 4 Television broadcasting, in the Salvage Squad series in January 2003, a programme featuring the restoration of an S&D Revopak, contact is being made with many former employees of the company. Their message is unanimously: "It was a great company to work for, we had some good times, it gives us a sense of pride to have contributed to excellent products, and a reputation for friendly and reliable attention to the needs of customers. It's sad the company no longer exists."
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/P%20series%20preserved.jpg" class="figure-img img-fluid rounded" alt="The preserved 'Salvage Squad' Mini Revopak">
+  <img src="{{ site.baseurl }}/assets/Images2/P%20series%20preserved.jpg" class="figure-img img-fluid rounded" alt="The preserved 'Salvage Squad' Mini Revopak">
   <figcaption class="figure-caption text-center">The preserved 'Salvage Squad' Mini Revopak</figcaption>
 </figure>
 

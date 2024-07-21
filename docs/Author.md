@@ -7,4 +7,4 @@ title: Author
 background: '/assets/Images3/pic09.jpg'
 ---
 
-This page has been moved to the [about page]({% link about.md %}).
+This page has been moved to the [about page]({{site.baseurl}}{% link about.md %}).

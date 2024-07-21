@@ -32,14 +32,14 @@ services:
   jekyll:
       #stdin_open: true
       #tty: true
-      image: jekyll/jekyll:3.8
+      image: jekyll/jekyll
       #container_name: jekyll
       volumes:
-          - ./public:/srv/jekyll
-          - ./public/vendor/bundle:/usr/local/bundle
+          - ./docs:/srv/jekyll
+          - ./docs/vendor/bundle:/usr/local/bundle
       ports:
           - 4000:4000
-      command: jekyll serve
+      command: jekyll serve  --trace
       networks:
         devnet: 
           ipv4_address: 172.22.0.103

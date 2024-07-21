@@ -7,4 +7,4 @@ title: Links 2
 background: '/assets/Images3/pic09.jpg'
 ---
 
-This page has been consolidated into a single [Links page]({% link Links.md %})
+This page has been consolidated into a single [Links page]({{site.baseurl}}{% link Links.md %})

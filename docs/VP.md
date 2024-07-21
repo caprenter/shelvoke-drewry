@@ -8,14 +8,14 @@ background: '/assets/Images5/P1.jpg'
 ---
 # The 'P' Type 1978 &#8211; 1991
 
-For the replacement for the ['N' Type]({% link VN.md %}) S&amp;D revertedto an all steel cab manufactured in their own works.
+For the replacement for the ['N' Type]({{site.baseurl}}{% link VN.md %}) S&amp;D revertedto an all steel cab manufactured in their own works.
 
 ## 1978 The 'P' type Revopak
 
-For the 'P' series the all steel tilt cab was designed by Ogle design of Letchworth and Dennis used a similar design also by Ogle. The cab components could be produced using a press brake and tooling costs were around £10,000 compared to the millions required for a conventional pressed steel cab. [<a href="Literature.html" target="_blank">Kaleidoscope caption 151</a>] 
+For the 'P' series the all steel tilt cab was designed by Ogle design of Letchworth and Dennis used a similar design also by Ogle. The cab components could be produced using a press brake and tooling costs were around £10,000 compared to the millions required for a conventional pressed steel cab. [<a href="{{ site.baseurl}}/Literature.html" target="_blank">Kaleidoscope caption 151</a>] 
 
 <figure class="figure w-100 text-center">
-    <img src="/assets/Images5/P1.jpg" class="figure-img img-fluid rounded" alt="1978 The 'P' type Revopak">
+    <img src="{{ site.baseurl }}/assets/Images5/P1.jpg" class="figure-img img-fluid rounded" alt="1978 The 'P' type Revopak">
     <figcaption class="figure-caption text-center">Photo supplied by Jaap Mikkers from the Netherlands.</figcaption>
   </figure>
 
@@ -24,7 +24,7 @@ For the 'P' series the all steel tilt cab was designed by Ogle design of Letchwo
 The Intapak design was carried over from the 'N' series to the 'P' series. The distinctive livery for demonstrator vehicles was introduced by Malcolm Bates SD's Publicity Manager from 1969.
 
 <figure class="figure w-100 text-center">
-    <img src="/assets/Images5/P2.jpg" class="figure-img img-fluid rounded" alt="1978 The 'P' type Intapak">
+    <img src="{{ site.baseurl }}/assets/Images5/P2.jpg" class="figure-img img-fluid rounded" alt="1978 The 'P' type Intapak">
     <figcaption class="figure-caption text-center">Photo from a sales brochure shows a PY Revopak leaving SD's Icknield Way works.</figcaption>
   </figure>
 
@@ -35,7 +35,7 @@ The Intapak design was carried over from the 'N' series to the 'P' series. The d
 Unlike the Revopak, which was a continuous loader, the Maxipak was an intermittent loader. The mechanism was more complicated than the Revopak's as it utilised a sweeper blade and a packer blade which were both hydraulically operated. The distinctive hopper is deeper than that of the Revopak and the support structure is evident as the hydraulic cylinders are inside the body so that side cover panels were not required. Technical details of the Maxipak can be found on the <a href="Tech.html" target="_blank">Technical Page. </a>
 
 <figure class="figure w-100 text-center">
-    <img src="/assets/Images5/P3.jpg" class="figure-img img-fluid rounded" alt="1978 The 'P' type Maxipak">
+    <img src="{{ site.baseurl }}/assets/Images5/P3.jpg" class="figure-img img-fluid rounded" alt="1978 The 'P' type Maxipak">
     <figcaption class="figure-caption text-center">Photo supplied by Roy Rowland.</figcaption>
   </figure>
 
@@ -45,7 +45,7 @@ The narrow bodied PN's had a similar Ogle designed tilting cab. The example show
 
 
 <figure class="figure w-100 text-center">
-    <img src="/assets/Images5/P4.jpg" class="figure-img img-fluid rounded" alt="1978 The 'PN' type Revopak">
+    <img src="{{ site.baseurl }}/assets/Images5/P4.jpg" class="figure-img img-fluid rounded" alt="1978 The 'PN' type Revopak">
     <!-- <figcaption class="figure-caption text-center">Photo supplied by Colin Glendinning.</figcaption> -->
   </figure>
 
@@ -54,7 +54,7 @@ The narrow bodied PN's had a similar Ogle designed tilting cab. The example show
 A squared off version of the body was introduced in 1983 and later an all steel body. Shelvoke &amp; Drewry was now owned by Krug International's Dempster Division hence the vehicles were given the title Shelvoke Dempster.
 
 <figure class="figure w-100 text-center">
-    <img src="/assets/Images5/P5.jpg" class="figure-img img-fluid rounded" alt="1983 Redesign of the body">
+    <img src="{{ site.baseurl }}/assets/Images5/P5.jpg" class="figure-img img-fluid rounded" alt="1983 Redesign of the body">
     <!-- <figcaption class="figure-caption text-center">Photo supplied by Colin Glendinning.</figcaption> -->
   </figure>
   
@@ -63,7 +63,7 @@ A squared off version of the body was introduced in 1983 and later an all steel 
 When Krug International bought S&amp;D in 1983 the Dempster RouteChief and RouteKing became available on 'P' series chassis. The caption to the photo reads:- "Route Chief ready for demonstration. Tiverton 1986." 
 
 <figure class="figure w-100 text-center">
-    <img src="/assets/Images5/P6.jpg" class="figure-img img-fluid rounded" alt="1983 The 'P' series RouteChief &amp; RouteKing">
+    <img src="{{ site.baseurl }}/assets/Images5/P6.jpg" class="figure-img img-fluid rounded" alt="1983 The 'P' series RouteChief &amp; RouteKing">
     <figcaption class="figure-caption text-center">Photo supplied by Roy Rowland.</figcaption>
   </figure>
 

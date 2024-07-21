@@ -7,7 +7,7 @@ title: Winter Newsletter - Page 5
 background: '/assets/Images3/pic09.jpg'
 ---
 
-This page has moved to [SD Enthusiasts' Club Newsletter - Winter 2023: Page 5]({% link pg1.md %}#page-5)
+This page has moved to [SD Enthusiasts' Club Newsletter - Winter 2023: Page 5]({{site.baseurl}}{% link pg1.md %}#page-5)
 
 
 

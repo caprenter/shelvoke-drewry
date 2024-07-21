@@ -19,22 +19,22 @@ Mr. Shelvoke was General Manager, and Mr. Drewry was Chief Engineer.
 
 Between them they conceived a lorry with a number of innovative features, and built the prototype in Harry Shelvoke's barn. 
 
-As the Lacre Company was not interested in this enterprise, they set up Shelvoke &amp; Drewry to manufacture their design, which they named: "[The Freighter]({% link VF.md %})" but which is affectionately remembered as "The Tiller."
+As the Lacre Company was not interested in this enterprise, they set up Shelvoke &amp; Drewry to manufacture their design, which they named: "[The Freighter]({{site.baseurl}}{% link VF.md %})" but which is affectionately remembered as "The Tiller."
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/SDmilk.jpg" class="figure-img img-fluid rounded" alt="An early version of the SD Freighter. Photo: Vintage Pictures.">
+  <img src="{{ site.baseurl }}/assets/Images2/SDmilk.jpg" class="figure-img img-fluid rounded" alt="An early version of the SD Freighter. Photo: Vintage Pictures.">
   <figcaption class="figure-caption text-center">An early version of the SD Freighter. Photo: Vintage Pictures..</figcaption>
 </figure> 
 
-The main features of the [The Freighter]({% link VF.md %}) were its ease of control at a time when the ability to drive was not widespread. This was achieved by utilising an epicyclic gearbox, with three forward speeds and three in reverse, which eliminated the need for a clutch pedal and a hand brake. The gears were controlled by a simple lever, known as a "tiller", which controlled both gears and clutch. A second tiller was used for steering; there was no conventional steering wheel. 
+The main features of the [The Freighter]({{site.baseurl}}{% link VF.md %}) were its ease of control at a time when the ability to drive was not widespread. This was achieved by utilising an epicyclic gearbox, with three forward speeds and three in reverse, which eliminated the need for a clutch pedal and a hand brake. The gears were controlled by a simple lever, known as a "tiller", which controlled both gears and clutch. A second tiller was used for steering; there was no conventional steering wheel. 
 
 An exceptionally low loading height of 23ins. was achieved by using 20 inch dia. solid tyres, which also avoided punctures. 
 
-The [Freighter]({% link VF.md %}) had a turning circle of 21ft 8ins, automatic lubrication of all moving parts, and power hydraulic tipping. 
+The [Freighter]({{site.baseurl}}{% link VF.md %}) had a turning circle of 21ft 8ins, automatic lubrication of all moving parts, and power hydraulic tipping. 
 
 It was powered by a 4 cylinder Petrol engine RAC rating 13.2 hp. which was placed sideways in the chassis.
 
-The [Freighter]({% link VF.md %}) was an immediate success. At first it was seen as a general purpose lorry, and was sold under the slogan "Two tons carried at the cost of One." 
+The [Freighter]({{site.baseurl}}{% link VF.md %}) was an immediate success. At first it was seen as a general purpose lorry, and was sold under the slogan "Two tons carried at the cost of One." 
 
 The company started with 30 employees and Shelvoke and Drewry were Joint Managing Directors, along with T.K.Sibbald and C.T.Barlow.
 
@@ -52,11 +52,11 @@ In 1935, following a disagreement with Harry Shelvoke, [James Drewry <i class="f
 
 His replacement as Chief Engineer was C.K. 'Tiny' Edwards, who served the Company until his retirement in 1955. His first design was the New Type of 1937, where the engine was placed in front of the driver, but retained tiller controls. 
 
-By 1939 some vehicles were being given a steering wheel, especially those employed as buses. Some 50 [Freighter]({% link VF.md %}) chassis were used as Public Service Vehicles, with Worthing's Tramocar fleet being the largest.
+By 1939 some vehicles were being given a steering wheel, especially those employed as buses. Some 50 [Freighter]({{site.baseurl}}{% link VF.md %}) chassis were used as Public Service Vehicles, with Worthing's Tramocar fleet being the largest.
 
 Between 1932 and 1937 the Company produced tractor units for the <b>Latil</b> Company, producing between 150 and 175 during that period.
 
-With the coming of the <b>Second World War</b> in 1939 [Freighter]({% link VF.md %}) production ceased almost completely, as the factory turned to war production.
+With the coming of the <b>Second World War</b> in 1939 [Freighter]({{site.baseurl}}{% link VF.md %}) production ceased almost completely, as the factory turned to war production.
 
 ## War Output
 
@@ -73,7 +73,7 @@ War output included
 * Undercarriages and Landing Gear for more than 8,000 Aircraft.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Welfreighter%201.jpg" class="figure-img img-fluid rounded" alt="S&amp;D personnel with a 37ft Welfreighter Submersible. Photo: Vintage Pictures.">
+  <img src="{{ site.baseurl }}/assets/Images2/Welfreighter%201.jpg" class="figure-img img-fluid rounded" alt="S&amp;D personnel with a 37ft Welfreighter Submersible. Photo: Vintage Pictures.">
   <figcaption class="figure-caption text-center">S&amp;D personnel with a 37ft Welfreighter Submersible. Photo: Vintage Pictures.</figcaption>
 </figure>
 
@@ -93,17 +93,17 @@ The story told on the website makes fascinating reading, and I thoroughly recomm
 
 ## Post War Developments
 
-The advances of the War years left Shelvoke &amp; Drewry's [Freighter]({% link VF.md %}) looking very old-fashioned, and although numbers were produced until 1952, C.K. Edwards immediately started on a more modern design. The ['W' Type]({% link VW.md %}) was tested and demonstrated in the severe winter of 1946/47, and immediately found favour with the municipal councils.
+The advances of the War years left Shelvoke &amp; Drewry's [Freighter]({{site.baseurl}}{% link VF.md %}) looking very old-fashioned, and although numbers were produced until 1952, C.K. Edwards immediately started on a more modern design. The ['W' Type]({{site.baseurl}}{% link VW.md %}) was tested and demonstrated in the severe winter of 1946/47, and immediately found favour with the municipal councils.
 
 ### 1947 The 'W' Type
 
-Now with conventional steering wheel, gearbox and clutch, the vehicle featured a coach built cab. Production of the ['W' Type]({% link VW.md %}) continued until February 1961 and 3,200 vehicles were supplied. 
+Now with conventional steering wheel, gearbox and clutch, the vehicle featured a coach built cab. Production of the ['W' Type]({{site.baseurl}}{% link VW.md %}) continued until February 1961 and 3,200 vehicles were supplied. 
 
 By 1953 S &amp; D had 33% of the municipal market. From 1954 Perkins diesel engines were offered as an alternative to S &amp; D's own petrol engine, and were increasingly specified by the customers.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/W%20B&amp;W.jpg" class="figure-img img-fluid rounded" alt="1947 The ['W' Type]({% link VW.md %})">
-  <!--<figcaption class="figure-caption text-center">1947 The ['W' Type]({% link VW.md %})</figcaption>-->
+  <img src="{{ site.baseurl }}/assets/Images/W%20B&amp;W.jpg" class="figure-img img-fluid rounded" alt="1947 The ['W' Type]({{site.baseurl}}{% link VW.md %})">
+  <!--<figcaption class="figure-caption text-center">1947 The ['W' Type]({{site.baseurl}}{% link VW.md %})</figcaption>-->
 </figure>
 
 In 1949 <b>Morris Davenport</b> was appointed Managing Director, and Harry Shelvoke became Chairman and served until 1957. Also Len Gostling, the Works Manager, was appointed as a director at this time.
@@ -115,7 +115,7 @@ An updated version of the pre-war<b> Fore &amp; Aft Tipper</b> was designed and 
 In 1952 the Company was asked by the<b> London Brick Company</b> to produce a Heavy Duty Forklift Truck similar to the American Hyster design. Import restrictions prevented London Brick from purchasing the Hyster product. C.K.Edwards designed the highly successful Freightlifter range which resulted in 170 orders from London Brick where some of the vehicles were in service for 21 years. 
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/FL%20B&amp;W.jpg" class="figure-img img-fluid rounded" alt="1952 The Freightlifter Fork Lift Truck">
+  <img src="{{ site.baseurl }}/assets/Images/FL%20B&amp;W.jpg" class="figure-img img-fluid rounded" alt="1952 The Freightlifter Fork Lift Truck">
   <!--<figcaption class="figure-caption text-center">1952 The Freightlifter Fork Lift Truck</figcaption>-->
 </figure>
 
@@ -123,12 +123,12 @@ The trucks could lift between 12,000 and 18,000 lbs. at 24 inch centres with a l
 
 ### 1959 The 'T' Type
 
-By 1959 the new regulations permitted a gross weight of 14 tons, but the gross weight capacity of the ['W' Type]({% link VW.md %}) was 8 tons 11 cwt. Clearly there was a need for a replacement vehicle. Following an abandoned design under John Huggins' leadership, [Tom Tillson]({% link Tillson.md %}), from rival suppliers Dennis, was appointed Chief Engineer.The ['T' Type]({% link VT.md %}) was designed in August of 1959, and the prototype was on test by the autumn. 
+By 1959 the new regulations permitted a gross weight of 14 tons, but the gross weight capacity of the ['W' Type]({{site.baseurl}}{% link VW.md %}) was 8 tons 11 cwt. Clearly there was a need for a replacement vehicle. Following an abandoned design under John Huggins' leadership, [Tom Tillson]({{site.baseurl}}{% link Tillson.md %}), from rival suppliers Dennis, was appointed Chief Engineer.The ['T' Type]({{site.baseurl}}{% link VT.md %}) was designed in August of 1959, and the prototype was on test by the autumn. 
 
-100 sets of parts were produced even before the prototype was fully tested, such was the perceived urgency. The ['W' Type]({% link VW.md %}) was also updated with a fibreglass cab front giving a more modern appearance. The ['T' Type]({% link VT.md %}) was available with an aluminium alloy body with continuous hydraulic compression of the refuse and was made under licence from the French Semat-Rey design and known as the <b>Pakamatic.</b>
+100 sets of parts were produced even before the prototype was fully tested, such was the perceived urgency. The ['W' Type]({{site.baseurl}}{% link VW.md %}) was also updated with a fibreglass cab front giving a more modern appearance. The ['T' Type]({{site.baseurl}}{% link VT.md %}) was available with an aluminium alloy body with continuous hydraulic compression of the refuse and was made under licence from the French Semat-Rey design and known as the <b>Pakamatic.</b>
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/TY%20B%26W.jpg" class="figure-img img-fluid rounded" alt=" Pakamatic for Bexley Council Photo: Company Photo.">
+  <img src="{{ site.baseurl }}/assets/Images/TY%20B%26W.jpg" class="figure-img img-fluid rounded" alt=" Pakamatic for Bexley Council Photo: Company Photo.">
   <figcaption class="figure-caption text-center"> Pakamatic for Bexley Council Photo: Company Photo.</figcaption>
 </figure>
 
@@ -140,17 +140,17 @@ In 1971 the Revopak was introduced with continuously rotating tines, which were 
 
 ### 1972 The 'N' Type
 
-The 'NY' series of 1972 introduced all steel cabs from Motor Panels Ltd. and by 1975 650 'NX's' had been produced and 1,700 'NY's'. The smallest ['N' Type]({% link VN.md %}), the 'NN', continued to use the fibre glassed cab front of the 'T' series. 
+The 'NY' series of 1972 introduced all steel cabs from Motor Panels Ltd. and by 1975 650 'NX's' had been produced and 1,700 'NY's'. The smallest ['N' Type]({{site.baseurl}}{% link VN.md %}), the 'NN', continued to use the fibre glassed cab front of the 'T' series. 
 
 <figure class="figure w-100 text-center">  
-      <img src="/assets/Images2/Malta%20Demo.jpg" class="figure-img img-fluid rounded" alt="'N' Revopak. Photo: Jaap Mikkers.">
+      <img src="{{ site.baseurl }}/assets/Images2/Malta%20Demo.jpg" class="figure-img img-fluid rounded" alt="'N' Revopak. Photo: Jaap Mikkers.">
       <figcaption class="figure-caption text-center">'N' Revopak. Photo: Jaap Mikkers.</figcaption>
 </figure>
 
 ### 1975 The SPV Division
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Fire%20App.jpg" class="figure-img img-fluid rounded" alt="1975 The SPV Division">
+  <img src="{{ site.baseurl }}/assets/Images2/Fire%20App.jpg" class="figure-img img-fluid rounded" alt="1975 The SPV Division">
   <!-- <figcaption class="figure-caption text-center">1975 The SPV Division</figcaption> -->
 </figure>
 
@@ -161,7 +161,7 @@ It was in 1975 that the Forklift side of the business was transferred to Conveya
 1978 saw the introduction of the 'P' series chassis. This featured a tilt cab using a welded steel frame, clad with single curvature or flat steel panels, with the roof and steps in grp. Ogle Design of Letchworth were co-designers of this new concept in cab design for relatively low production quantities. The chassis was available in a range between 11.5 and 16 tons gvw which increased to 24 tons where a third axle was specified. In January 1980 the 25,000 SD vehicle was completed - a 16 ton 'PY' series Revopak. 
 
 <figure class="figure w-100 text-center">  
-      <img src="/assets/Images2/P%20series%20preserved.jpg" class="figure-img img-fluid rounded" alt="A 'PN' Revopak. Photo:David Carpenter.">
+      <img src="{{ site.baseurl }}/assets/Images2/P%20series%20preserved.jpg" class="figure-img img-fluid rounded" alt="A 'PN' Revopak. Photo:David Carpenter.">
       <figcaption class="figure-caption text-center">A 'PN' Revopak. Photo:David Carpenter.</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ In 1966 Shelvoke &amp; Drewry merged with tanker manufacturers, W.P.Butterfield,
 The full reasons for the decision to cease trading are not clear. But they include a number of factors, including the way local government in Britain was re-organised. Also despite the popularity of the Revopak, it was an expensive vehicle to operate with its continuous compaction. Meanwhile in 1979, <b>Dennis Bros.</b> introduced their Phoenix model after almost completely losing its market share. Dennis owned the Eagle Engineering Company through a series of buyouts, and the Hestair Eagle compaction mechanism, which was based on the Swiss Ochsner system, was immediately popular with operators. This led to Dennis regaining a market share of 60%, where just six years before S &amp; D had held 65%. By 1986 the Company was known as Shelvoke Dempster, and its range of products included bulk loaders of American design. However following a further change of ownership, the company had ceased to trade before the end of the 1991.
 
 <figure class="figure w-100 text-center">  
-      <img src="/assets/Images2/Top%20Loader.jpg" class="figure-img img-fluid rounded" alt="A Shelvoke Dempster Bulk Loader on Customer's Chassis. Photo: P. Lear.">
+      <img src="{{ site.baseurl }}/assets/Images2/Top%20Loader.jpg" class="figure-img img-fluid rounded" alt="A Shelvoke Dempster Bulk Loader on Customer's Chassis. Photo: P. Lear.">
       <figcaption class="figure-caption text-center">A Shelvoke Dempster Bulk Loader on Customer's Chassis. Photo: P. Lear.</figcaption>
 </figure>
 
@@ -184,7 +184,7 @@ The length of service of employees of the Company is remarkable. When, in 1949, 
 
 ## The People who were S&amp;D
 
-In March 2003 the <a href="/Enthusiasts" target="_blank"><b>SD Enthusiasts' Club</b></a> was formed. Since then many former employees have kindly written of their experience of Shelvoke &amp; Drewry. Their stories appear in the quarterly Newsletter, and you will find a selection by going to the Newsletter section using the link below. Virtually without exception ex-employees remember the company as unique and a "great place to work." The stories they tell are a reminder of the wide range of skills utilised by the Company.
+In March 2003 the <a href="{{ site.baseurl }}/Enthusiasts" target="_blank"><b>SD Enthusiasts' Club</b></a> was formed. Since then many former employees have kindly written of their experience of Shelvoke &amp; Drewry. Their stories appear in the quarterly Newsletter, and you will find a selection by going to the Newsletter section using the link below. Virtually without exception ex-employees remember the company as unique and a "great place to work." The stories they tell are a reminder of the wide range of skills utilised by the Company.
 
 ## Key Dates At A Glance
 
@@ -193,26 +193,26 @@ In March 2003 the <a href="/Enthusiasts" target="_blank"><b>SD Enthusiasts' Club
 |-------|--------|---------|
 | 1922 |October |Shelvoke &amp; Drewry founded. | 
 | 1923 | |Apprenticeship scheme started.  | 
-| 1924 | December | 100th [Freighter]({% link VF.md %}) built. |
+| 1924 | December | 100th [Freighter]({{site.baseurl}}{% link VF.md %}) built. |
 | 1931 |  | First moveable floor body. |
-| 1929 | October | 1,000th [Freighter]({% link VF.md %}) built. |
+| 1929 | October | 1,000th [Freighter]({{site.baseurl}}{% link VF.md %}) built. |
 | 1935 |  | [James Drewry <i class="fa fa-arrow-up-right-from-square" aria-hidden="true"></i>](http://www.drewry.net/TreeMill/indiI066.html){:target="_blank" rel="noopener noreferrer"} leaves the company, replaced as Chief Engineer by C.K.Edwards. |
 | 1937 |  | "New Type" designed. |
 | 1932-37 |  | Latil tractor units built by S &amp; D. |
 | 1939-45 |  | Factory turned over to war production. |
-| 1947 |  | ['W' Type]({% link VW.md %}) introduced. |
+| 1947 |  | ['W' Type]({{site.baseurl}}{% link VW.md %}) introduced. |
 | 1949 |  | Harry Shelvoke stands down as Managing Director to be replaced by Morris Davenport. |
-| 1952 |  | Last [Freighter]({% link VF.md %}) built. Freightlifter Heavy Duty Forklift Truck introduced. |
+| 1952 |  | Last [Freighter]({{site.baseurl}}{% link VF.md %}) built. Freightlifter Heavy Duty Forklift Truck introduced. |
 | 1954 |  | Perkins diesel engines offered as alternative to S &amp; D's petrol engine. |
-| 1959 |  | Tom Tillson appointed Chief Engineer. ['T' Type]({% link VT.md %}) introduced. Blackhorse Rd. Factory built. |
-| 1961 | February | Last ['W' Type]({% link VW.md %}) built. Total production 3,200 of which 2,500 were F &amp; A Tippers. |
+| 1959 |  | Tom Tillson appointed Chief Engineer. ['T' Type]({{site.baseurl}}{% link VT.md %}) introduced. Blackhorse Rd. Factory built. |
+| 1961 | February | Last ['W' Type]({{site.baseurl}}{% link VW.md %}) built. Total production 3,200 of which 2,500 were F &amp; A Tippers. |
 | 1961 | November | No.2 Factory opened in Blachorse Lane. | 
 | 1962 |  | Death of Harry Shelvoke. |
 | 1962 |  | Defiant range of Forklift Trucks introduced. |
 | 1966 |  | Company merges with W.P.Butterfield. |
 | 1969 |  | Stanley Quin appointed Managing Director. Paka Ejector model introduced. |
 | 1971 |  | Revopak introduced. Company becomes part of Butterfield - Harvey Group of Companies. |
-| 1972 |  | ['N' Type]({% link VN.md %}) introduced. |
+| 1972 |  | ['N' Type]({{site.baseurl}}{% link VN.md %}) introduced. |
 | 1974 |  | Last Forklift Truck built. |
 | 1975 |  | Special Purpose Vehicle Division formed. |
 | 1976 |  | Intapak - an intermittent loading version of the Revopak becomes an option. |
@@ -227,7 +227,7 @@ In March 2003 the <a href="/Enthusiasts" target="_blank"><b>SD Enthusiasts' Club
 ## Technical Details Of Refuse Collection Vehicles
 
 See the [dedicated page for technical details of refuse collection
-vehicles]({% link Tech.md %})
+vehicles]({{site.baseurl}}{% link Tech.md %})
 
 ## Historical Interest
 
@@ -259,4 +259,4 @@ Accounts of operating S&amp;D vehicles can be found on
 
 <b>Lisburn Council.</b> - <a href="http://www.lisburn.com/books/lisburn_miscellany/miscellany.html" target="_blank">www.lisburn.com/books/lisburn_miscellany/miscellany.html</a>
 
-Fred Kee, former Public Health Inspector at Lisburn, recalls the Council purchasing a S &amp; D [Freighter]({% link VF.md %}) in 1928 to replace horses. Scroll down the opening page to "Preface."
+Fred Kee, former Public Health Inspector at Lisburn, recalls the Council purchasing a S &amp; D [Freighter]({{site.baseurl}}{% link VF.md %}) in 1928 to replace horses. Scroll down the opening page to "Preface."

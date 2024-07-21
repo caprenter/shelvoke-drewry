@@ -16,7 +16,7 @@ This page was found on the webserver after Brian's death but marked as DRAFT
 ### Gary Sugden in conversation with your Editor
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images6/p01.jpg" class="figure-img img-fluid rounded" alt="Gary's Boys">
+  <img src="{{ site.baseurl }}/assets/Images6/p01.jpg" class="figure-img img-fluid rounded" alt="Gary's Boys">
   <!--<figcaption class="figure-caption text-center">Preserved vehicle restored to 1922 condition.</figcaption>-->
 </figure>
 
@@ -32,7 +32,7 @@ Much of the account that follows has been taken from Gary Sugden's words on the 
 The Photo at the top of the page of Gary's Boys was supplied to me by Roger Morrisroe.  Gary came to S&amp;D as a young man in 1960 having served an apprenticeship as a Motor Mechanic and joined the Service Department. Here he met up with John Hill, John Holt, Reg Bowles,Jim Morley (who served 46  years at the company) , Jack Fitch, Eric Kilfoyle, &#8220;Charlie&#8221; Lawton, Frank Hopgood among others. All under the control of Jack Arnold, the well respected Service Manager, who reported to Jack Wilkinson, Sales Director. Gary must have liked t he people he joined to work with, and the work, because he stayed in the Service Department for 17 years!
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images6/p02.jpg" class="figure-img img-fluid rounded" alt="A 1978/79 NY Revopak. Peter Jarman photo.">
+  <img src="{{ site.baseurl }}/assets/Images6/p02.jpg" class="figure-img img-fluid rounded" alt="A 1978/79 NY Revopak. Peter Jarman photo.">
   <figcaption class="figure-caption text-center">A 1978/79 NY Revopak. Peter Jarman photo.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Malcolm Bates records that for the 1976 Commercial Vehicle Exhibition at Earls C
 
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images6/p03.jpg" class="figure-img img-fluid rounded" alt="An early SPV Crash Tender (Not one of those mentioned above) Another Peter Jarman photo.">
+  <img src="{{ site.baseurl }}/assets/Images6/p03.jpg" class="figure-img img-fluid rounded" alt="An early SPV Crash Tender (Not one of those mentioned above) Another Peter Jarman photo.">
   <figcaption class="figure-caption text-center">An early SPV Crash Tender (Not one of those mentioned above) Another Peter Jarman photo.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Malcolm Bates records that for the 1976 Commercial Vehicle Exhibition at Earls C
 For the 1978 Commercial Vehicle Exhibition, now held at the NEC at Birmingham, there was a far more impressive display of   seven vehicles  were on show. In that year the 'P' series of refuse collection vehicles had been launched with the Ogle designed all steel tilt cab , and for the SPV Division the PNL chassis formed the basis for  the PNL City Truck with the width increased by 2 ins to 6' 8&#8221;
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images6/p04.jpg" class="figure-img img-fluid rounded" alt="The PNL City Truck">
+  <img src="{{ site.baseurl }}/assets/Images6/p04.jpg" class="figure-img img-fluid rounded" alt="The PNL City Truck">
   <figcaption class="figure-caption text-center">The PNL City Truck</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ There was a 6x6, along with a CR 4x4 crash tender which was destined to go to Ch
 The 1980 Commercial Vehicle Show appears to have been much more upbeat about the SPV Division. This Hi-loader aircraft supply vehicle was boldly emblazoned:- Shelvoke SPV &#8211; A new force in the British truck industry.&#8221; [Bookazine page 89]
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images6/p05.jpg" class="figure-img img-fluid rounded" alt="Photo supplied by Nigel Kenworthy.">
+  <img src="{{ site.baseurl }}/assets/Images6/p05.jpg" class="figure-img img-fluid rounded" alt="Photo supplied by Nigel Kenworthy.">
   <figcaption class="figure-caption text-center">Photo supplied by Nigel Kenworthy.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ With great ingenuity Malcolm Bates had this used as the hospitality suite at the
 And little Oliver, grandson of SD employees Jake &amp; Joan Saunders, does his bit to advertise the brand.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images6/p07.jpg" class="figure-img img-fluid rounded" alt="Photo supplied by Joan Saunders.">
+  <img src="{{ site.baseurl }}/assets/Images6/p07.jpg" class="figure-img img-fluid rounded" alt="Photo supplied by Joan Saunders.">
   <figcaption class="figure-caption text-center">Photo supplied by Joan Saunders.</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ A major breakthrough came when it was realised that the 'P' series Ogle cab coul
 
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images6/p08.jpg" class="figure-img img-fluid rounded" alt="Photo at Lullingstone Castle 08.07.17. Two preserved LFB WX's Darren Perry photo.">
+  <img src="{{ site.baseurl }}/assets/Images6/p08.jpg" class="figure-img img-fluid rounded" alt="Photo at Lullingstone Castle 08.07.17. Two preserved LFB WX's Darren Perry photo.">
   <figcaption class="figure-caption text-center">Photo at Lullingstone Castle 08.07.17. Two preserved LFB WX's Darren Perry photo.</figcaption>
 </figure>
 

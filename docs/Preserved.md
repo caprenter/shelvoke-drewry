@@ -12,7 +12,7 @@ background: '/assets/Images2/78%20DNK.jpg'
 
 # Full List Of Preserved Vehicles 
 
-<i class="fa-solid fa-file-pdf"></i> View/Download [a PDF containing a full list of SD vehicles believed to be still in existence]({% link assets/files/Exist.pdf %}).
+<i class="fa-solid fa-file-pdf"></i> View/Download [a PDF containing a full list of SD vehicles believed to be still in existence]({{site.baseurl}}{% link /assets/files/Exist.pdf %}).
 
 # The Freighter
 
@@ -27,7 +27,7 @@ The Freighter was the original Shelvoke &amp; Drewry design with its small solid
 * Location: Bedfordshire
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/WH%20Allen.jpg" class="figure-img img-fluid rounded" alt="WH Allen">
+  <img src="{{ site.baseurl }}/assets/Images2/WH%20Allen.jpg" class="figure-img img-fluid rounded" alt="WH Allen">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -45,7 +45,7 @@ How it came to a barn in Bedfordshire has yet to be discovered. But this is a tr
 * Location: Whiteman Park Car Museum, Sydney, Australia.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Australian%20Freighter.JPG" class="figure-img img-fluid rounded" alt="Australian Freighter">
+  <img src="{{ site.baseurl }}/assets/Images2/Australian%20Freighter.JPG" class="figure-img img-fluid rounded" alt="Australian Freighter">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -56,7 +56,7 @@ This Freighter was discovered in a scrapyard and restored by a team under the in
 A 1927 Freighter which restored to 1922 specification by S &amp; D's apprentices in 1968.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/1922%20Freighter.jpg" class="figure-img img-fluid rounded" alt="KP 7670 Freighter">
+  <img src="{{ site.baseurl }}/assets/Images/1922%20Freighter.jpg" class="figure-img img-fluid rounded" alt="KP 7670 Freighter">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -75,7 +75,7 @@ SD Freighter with flat bed body.
 * Location: Co. Cavan, Ireland.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/MI%202721.jpg" class="figure-img img-fluid rounded" alt="Pierce &amp; Co. Freighter">
+  <img src="{{ site.baseurl }}/assets/Images2/MI%202721.jpg" class="figure-img img-fluid rounded" alt="Pierce &amp; Co. Freighter">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -94,7 +94,7 @@ This has a Chelsea type body and was delivered to Epsom &amp; Ewell in 1934. Thi
 It is owned by the Southern Counties Preservation Trust and is on loan to the Bressingham Steam Museum in Norfolk and forms part of their Dad's Army display.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/Freighter%20Epsom.jpg" class="figure-img img-fluid rounded" alt="Southern Counties Preservation Trust Freighter">
+  <img src="{{ site.baseurl }}/assets/Images/Freighter%20Epsom.jpg" class="figure-img img-fluid rounded" alt="Southern Counties Preservation Trust Freighter">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -113,7 +113,7 @@ This was kept at the East Anglia Transport Museum in Lowestoft for many years. I
 BP 9822 is at the [Amberley Working Museum  <i class="fa fa-arrow-up-right-from-square" aria-hidden="true"></i>](http://www.amberleymuseum.co.uk){:target="_blank" rel="noopener noreferrer"} is an ex-Truro Freighter converted to a Tramocar replica. Worthing were among a number of seaside authorities who ran Freighters as Public Service Vehicles.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Tramocar.jpg" class="figure-img img-fluid rounded" alt="Tramocar">
+  <img src="{{ site.baseurl }}/assets/Images2/Tramocar.jpg" class="figure-img img-fluid rounded" alt="Tramocar">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -132,7 +132,7 @@ Photo: Bill Thornycroft.
 * Location: Bristol.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Kennedy.jpg" class="figure-img img-fluid rounded" alt="A Mk II Freighter owned by Cleanaway Ltd">
+  <img src="{{ site.baseurl }}/assets/Images2/Kennedy.jpg" class="figure-img img-fluid rounded" alt="A Mk II Freighter owned by Cleanaway Ltd">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -152,7 +152,7 @@ This Freighter chassis was purchased by its present owner in 2011 for use as spa
 A Mk II Freighter owned by Cleanaway Ltd.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/JL4881.jpg" class="figure-img img-fluid rounded" alt="A Mk II Freighter owned by Cleanaway Ltd">
+  <img src="{{ site.baseurl }}/assets/Images2/JL4881.jpg" class="figure-img img-fluid rounded" alt="A Mk II Freighter owned by Cleanaway Ltd">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -165,7 +165,7 @@ Photo: Richard Haughey
 A Chelsea type SD Freighter housed at the National Collections Centre of Amgueddfa Cymru - the National Museum Wales at Nantgarw, just north of Cardiff.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Cardiff.jpg" class="figure-img img-fluid rounded" alt="A Mk II Freighter owned by Cleanaway Ltd">
+  <img src="{{ site.baseurl }}/assets/Images2/Cardiff.jpg" class="figure-img img-fluid rounded" alt="A Mk II Freighter owned by Cleanaway Ltd">
   <figcaption class="figure-caption text-center">Photo: John Webb</figcaption>
 </figure>
 
@@ -173,7 +173,7 @@ It carries the Chassis/frame number N70146, and Engine number EU20250. First reg
 
 # The 'W' Type
 
-Introduced in 1947 the ['W' Type]({% link VW.md %}) has a conventional steering wheel, clutch and brake pedals, and conventional gear lever. The cab is coach built on an ash frame, and Shelvoke &amp; Drewry's own petrol engine was used, but soon customers began to specify a Perkins diesel engine. Seven 'W' types are believed to exist.
+Introduced in 1947 the ['W' Type]({{site.baseurl}}{% link VW.md %}) has a conventional steering wheel, clutch and brake pedals, and conventional gear lever. The cab is coach built on an ash frame, and Shelvoke &amp; Drewry's own petrol engine was used, but soon customers began to specify a Perkins diesel engine. Seven 'W' types are believed to exist.
 
 ## ENJ 661 
 
@@ -187,10 +187,10 @@ See: <a href="http://www.nationaltransportmuseum.org/backup.html" target="_blank
 
 ## RVO 157
 
-This 1954 ['W' Type]({% link VW.md %}), Reg. No. <b>RVO 157</b>, was photographed at the Cadeby Steam Rally in Leicestershire, on 11th August 2002. The vehicle came from Mansfield Corporation. 
+This 1954 ['W' Type]({{site.baseurl}}{% link VW.md %}), Reg. No. <b>RVO 157</b>, was photographed at the Cadeby Steam Rally in Leicestershire, on 11th August 2002. The vehicle came from Mansfield Corporation. 
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/W%20type%20preserved.jpg" class="figure-img img-fluid rounded" alt="RVO 157">
+  <img src="{{ site.baseurl }}/assets/Images/W%20type%20preserved.jpg" class="figure-img img-fluid rounded" alt="RVO 157">
   <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption>
 </figure>
 
@@ -216,11 +216,11 @@ A 1959 'W' type Reg. No. <b>HFA 908</b> ex- Burton on Trent was owned by S&amp;B
 * Chassis No.: W58L468
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/78%20DNK.jpg" class="figure-img img-fluid rounded" alt="78 DNK">
+  <img src="{{ site.baseurl }}/assets/Images2/78%20DNK.jpg" class="figure-img img-fluid rounded" alt="78 DNK">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
-This ['W' Type]({% link VW.md %}) has S&amp;D's 3,620 cc side vale engine and after service with Ketton R.D. C. was with J &amp; D Hadfield, a coach &amp; haulage company, from about 1967 until 1977 when it was purchased by Ted Hoole from Sheffield. 
+This ['W' Type]({{site.baseurl}}{% link VW.md %}) has S&amp;D's 3,620 cc side vale engine and after service with Ketton R.D. C. was with J &amp; D Hadfield, a coach &amp; haulage company, from about 1967 until 1977 when it was purchased by Ted Hoole from Sheffield. 
 
 Converted to a flat bed lorry by Ted, and carrying an ex-railway box van body, which housed a fair ground organ, the SD was to be found at fairs and rallies in the summer months for 23 years until 2010. 
 
@@ -237,10 +237,10 @@ Jim Wakefield also has <b>YRE 367 </b>a Cesspool Emptier for restoration.
 
 ## Point Cook Air Force Base Museum. Melbourne, Australia.
 
-John Williams a volunteer professional engineer at the Museum has sent photographs of the recently restored SD ['W' Type]({% link VW.md %}) airport fire tender which is one of a batch of ten built in 1950/51.
+John Williams a volunteer professional engineer at the Museum has sent photographs of the recently restored SD ['W' Type]({{site.baseurl}}{% link VW.md %}) airport fire tender which is one of a batch of ten built in 1950/51.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/W%20R.A.A.F..jpg" class="figure-img img-fluid rounded" alt="Point Cook Air Force Base Museum. Melbourne, Australia">
+  <img src="{{ site.baseurl }}/assets/Images/W%20R.A.A.F..jpg" class="figure-img img-fluid rounded" alt="Point Cook Air Force Base Museum. Melbourne, Australia">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
@@ -249,14 +249,14 @@ John Williams a volunteer professional engineer at the Museum has sent photograp
 
 ## 2217 IJ 
 
-A 1959 ['W' Type]({% link VW.md %}) with a Fore &amp; Aft tipper body. 
+A 1959 ['W' Type]({{site.baseurl}}{% link VW.md %}) with a Fore &amp; Aft tipper body. 
 
 * Original Owner:- Bangor Council, County Down, Northern Ireland.
 * Owner:- Peter Johnston, McCreath Taylor Ltd.
 * Location:- Lisburn, Northern Ireland.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/W%20F&amp;A.jpg" class="figure-img img-fluid rounded" alt="A 1959 'W' Type">
+  <img src="{{ site.baseurl }}/assets/Images/W%20F&amp;A.jpg" class="figure-img img-fluid rounded" alt="A 1959 'W' Type">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
@@ -264,15 +264,15 @@ The vehicle was acquired by Peter Johnston in May 2011 having been dry stored in
 
 The vehicle is powered by a Shelvoke &amp; Drewry petrol engine.
 
-# The ['T' Type]({% link VT.md %})
+# The ['T' Type]({{site.baseurl}}{% link VT.md %})
 
-Tom Tillson joined Shelvoke &amp; Drewry from Dennis in 1959 and the ['T' Type]({% link VT.md %}) made its appearance in 1960. Retaining a coach built cab, but with a fibreglass front; the 'W's S&amp;D produced axles and gearboxes were replaced by proprietary units. The 'T' appeared in a variety of forms with various carrying capacities. At least eleven 'T' types are in existence.
+Tom Tillson joined Shelvoke &amp; Drewry from Dennis in 1959 and the ['T' Type]({{site.baseurl}}{% link VT.md %}) made its appearance in 1960. Retaining a coach built cab, but with a fibreglass front; the 'W's S&amp;D produced axles and gearboxes were replaced by proprietary units. The 'T' appeared in a variety of forms with various carrying capacities. At least eleven 'T' types are in existence.
 
 
 ## 251 BJD
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Breakdown.jpg" class="figure-img img-fluid rounded" alt="251 BJD">
+  <img src="{{ site.baseurl }}/assets/Images2/Breakdown.jpg" class="figure-img img-fluid rounded" alt="251 BJD">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
@@ -296,7 +296,7 @@ A 1967 TN Pakamatic was bought by London Recycling in 2004. It is believed to be
 This 1970 model TBN Reg No. <b>GWJ 867 J </b>with a Fore and Aft body covered 71,855 miles in the service of Sheffield City Council. Retired in 1982 it was restored by its owners.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/F%20%26%20A%20Sheffield.jpg" class="figure-img img-fluid rounded" alt="GWJ 867 J">
+  <img src="{{ site.baseurl }}/assets/Images/F%20%26%20A%20Sheffield.jpg" class="figure-img img-fluid rounded" alt="GWJ 867 J">
   <figcaption class="figure-caption text-center">Photo: Allen Freer</figcaption>
 </figure>
 
@@ -306,7 +306,7 @@ This 1970 model TBN Reg No. <b>GWJ 867 J </b>with a Fore and Aft body covered 71
 A 1972 TBN Pakamatic beautifully restored by members of the City of Bradford transport vehicle maintenance section between November 1997 and summer 1999.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/TN%20Bradford.jpg" class="figure-img img-fluid rounded" alt="FBU 227 K">
+  <img src="{{ site.baseurl }}/assets/Images/TN%20Bradford.jpg" class="figure-img img-fluid rounded" alt="FBU 227 K">
   <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption>
 </figure>
 
@@ -321,7 +321,7 @@ It is now owned by the Keighley Bus Museum in West Yorkshire.
 Once a TBN Pakamatic with a Lancashire Council, <b>OTF 983 K </b>has been modified to carry vintage tractors to rallies. It is owned by Mr. D.B. Jones of Hitchin, Herts. Pictured at the Wood Green (Animal Shelter) Rally on the 26th July 2003.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/OFT983K.jpg" class="figure-img img-fluid rounded" alt="OTF 983 K">
+  <img src="{{ site.baseurl }}/assets/Images2/OFT983K.jpg" class="figure-img img-fluid rounded" alt="OTF 983 K">
   <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption>
 </figure>
 
@@ -329,10 +329,10 @@ Sold at auction in 2013 it's present owner and location are unknown.
 
 ## KLK 464 K
 
-KLK 464 K is a 1971 ['T' Type]({% link VT.md %}) gully emptier. This stood for a number of years in Barking, East London, and was purchased for restoration by Duncan Law in the Autumn of 2017.
+KLK 464 K is a 1971 ['T' Type]({{site.baseurl}}{% link VT.md %}) gully emptier. This stood for a number of years in Barking, East London, and was purchased for restoration by Duncan Law in the Autumn of 2017.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Barking%20T.jpg" class="figure-img img-fluid rounded" alt="KLK 464 K">
+  <img src="{{ site.baseurl }}/assets/Images2/Barking%20T.jpg" class="figure-img img-fluid rounded" alt="KLK 464 K">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
@@ -343,7 +343,7 @@ At present in Ireland undergoing restoration.
 This 1973 Cesspit Emptier (Registration Number <b>RDH 639 M</b>) was still in regular use at Evesham Marina where it was used for pumping out the boats, it was finally retired early in 2003. Subsequently the vehicle has been acquired with the intention of restoration and preservation, and has been seen advertised for sale.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/Evesham.jpg" class="figure-img img-fluid rounded" alt="RDH 639 M">
+  <img src="{{ site.baseurl }}/assets/Images/Evesham.jpg" class="figure-img img-fluid rounded" alt="RDH 639 M">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
@@ -356,25 +356,25 @@ GJD 124 N in the form of a BP Tanker was stored at Cranfield. It was sold in 200
 This ex-Kettering R.D.C. was at Stilton, near Peterborough, in remarkably good condition for its age. Its present whereabouts are unknown.
 
 ## BBA 495
-A 'TY' Revopak with the Maltese Registration <b>BBA 495 </b>remained in service on the island in 2003. Two further 'TY's not in service were also photographed. County Durham is said to have some ['T' Type]({% link VT.md %})s converted for gritting duties, and 'T's are said to exist on St. Helena and in the Caribbean.
+A 'TY' Revopak with the Maltese Registration <b>BBA 495 </b>remained in service on the island in 2003. Two further 'TY's not in service were also photographed. County Durham is said to have some ['T' Type]({{site.baseurl}}{% link VT.md %})s converted for gritting duties, and 'T's are said to exist on St. Helena and in the Caribbean.
 
 ## GKT 122 D 
 
-GKT 122 D is a ['T' Type]({% link VT.md %}) tanker advertised for sale in June 2009. It dates from 1966 and has surely seen many years of service. It is available to view near Rochester, Kent.
+GKT 122 D is a ['T' Type]({{site.baseurl}}{% link VT.md %}) tanker advertised for sale in June 2009. It dates from 1966 and has surely seen many years of service. It is available to view near Rochester, Kent.
 
 
-# The ['N' Type]({% link VN.md %})
-The ['N' Type]({% link VN.md %}) was introduced in 1972. For the first time a proprietary Motor Panels steel cab was used, albeit much modified. The 'N' therefore bears an outward similarity to a number of other manufacturers' vehicles of this time.
+# The ['N' Type]({{site.baseurl}}{% link VN.md %})
+The ['N' Type]({{site.baseurl}}{% link VN.md %}) was introduced in 1972. For the first time a proprietary Motor Panels steel cab was used, albeit much modified. The 'N' therefore bears an outward similarity to a number of other manufacturers' vehicles of this time.
 
 ## Malta
 Andy Martin from Towcester, saw this 'N' Revopak whilst on holiday in Malta in May 2003. The vehicle was in daily use emptying the rubbish bins of Marsalforn on the island of Gozo.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Malta.jpg" class="figure-img img-fluid rounded" alt="N Type in Malta">
+  <img src="{{ site.baseurl }}/assets/Images2/Malta.jpg" class="figure-img img-fluid rounded" alt="N Type in Malta">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
-No less than fourteen further ['N' Type]({% link VN.md %})s were operating in Malta when Jaap Mikkers visited in April 2003.
+No less than fourteen further ['N' Type]({{site.baseurl}}{% link VN.md %})s were operating in Malta when Jaap Mikkers visited in April 2003.
 
 These all carried S&amp;D's Revopak body. It is believed that by the end of 2015 all these vehicles have been withdrawn from service due&nbsp;&nbsp;to more stringent Maltese Government regulations.
 
@@ -383,7 +383,7 @@ These all carried S&amp;D's Revopak body. It is believed that by the end of 2015
 A 1974 'NN' tanker was built for delivering domestic heating oil in London for BP Ltd. With its narrow width and short wheelbase it was ideal for use in narrow streets.It was last seen as a cab/chassis for sale by Westbury Breakers, Wiltshire.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/GJD%20121%20N.jpg" class="figure-img img-fluid rounded" alt="GJD 121 N">
+  <img src="{{ site.baseurl }}/assets/Images2/GJD%20121%20N.jpg" class="figure-img img-fluid rounded" alt="GJD 121 N">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
@@ -395,20 +395,20 @@ This **NN** was restored by Michael Cooper from South Ayrshire, Scotland.The cab
 In August 2015 this 'N' series Revopak arrived back &nbsp;in the U.K. from Malta having been purchased for &nbsp;preservation . &nbsp;It is owned by Aled and Matthew Rees from Bristol.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/ExMalta.JPG" class="figure-img img-fluid rounded" alt="N'series Revopak from Malta">
+  <img src="{{ site.baseurl }}/assets/Images2/ExMalta.JPG" class="figure-img img-fluid rounded" alt="N'series Revopak from Malta">
   <!-- <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption> -->
 </figure>
 
 In Malta it was operated by a private contractor.
 
-# The ['P' Type]({% link VP.md %})
-What was to prove to be Shelvoke &amp; Drewry's last model, the ['P' Type]({% link VP.md %}) made its appearance in1978. Designed under a team headed by Tom Tillson, with Frank Dean as Chief Engineer the 'P' series tilt cab was once more built 'in house.' The 'P' series chassis ranged from 11.5 tons gvw up to a tandem axled 22 tons gvw. Nine examples are in existence, with possibly a few more on Malta. (At least 10 'P' series vehicles were still in operation in Malta in 2003. It is believed that by the end of 2015 all these vehicles have been withdrawn from service due to more stringent Maltese Government regulations.)
+# The ['P' Type]({{site.baseurl}}{% link VP.md %})
+What was to prove to be Shelvoke &amp; Drewry's last model, the ['P' Type]({{site.baseurl}}{% link VP.md %}) made its appearance in1978. Designed under a team headed by Tom Tillson, with Frank Dean as Chief Engineer the 'P' series tilt cab was once more built 'in house.' The 'P' series chassis ranged from 11.5 tons gvw up to a tandem axled 22 tons gvw. Nine examples are in existence, with possibly a few more on Malta. (At least 10 'P' series vehicles were still in operation in Malta in 2003. It is believed that by the end of 2015 all these vehicles have been withdrawn from service due to more stringent Maltese Government regulations.)
 
 ## SCY 786 X
 Steve Jones, from Sandown on the Isle of Wight, owns this 1982 'P' series Revopak. It has an unusually short body and wheelbase necessitated by its use on the Scilly Isles by their local Council.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/P%20series%20preserved.jpg" class="figure-img img-fluid rounded" alt="SCY 786 X">
+  <img src="{{ site.baseurl }}/assets/Images2/P%20series%20preserved.jpg" class="figure-img img-fluid rounded" alt="SCY 786 X">
   <figcaption class="figure-caption text-center">Photo: David Carpenter</figcaption>
 </figure>
 
@@ -428,7 +428,7 @@ Steve Jones of Sandown, Isle of Wight also owns a 1986 PNL+ Revopak Reg. No. <b>
 A PN Revopak with an 8' 0" wheelbase that was in service with Blackpool Corporation before being purchased by Magee Haulage based in Douglas Isle of Man.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Ex%20IOM.JPG" class="figure-img img-fluid rounded" alt="8153 MAN">
+  <img src="{{ site.baseurl }}/assets/Images2/Ex%20IOM.JPG" class="figure-img img-fluid rounded" alt="8153 MAN">
   <!-- <figcaption class="figure-caption text-center">Photo: David Carpenter</figcaption> -->
 </figure>
 
@@ -442,7 +442,7 @@ This PN Revopak is on an 11' 3" wheelbase and carries a five man crew cab. It wa
 Whilst with Magee Haulage its registration number was:- BMN 570 R
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Cooper%20PN%20Revopak.jpg" class="figure-img img-fluid rounded" alt="NFB 119 Y">
+  <img src="{{ site.baseurl }}/assets/Images2/Cooper%20PN%20Revopak.jpg" class="figure-img img-fluid rounded" alt="NFB 119 Y">
   <!-- <figcaption class="figure-caption text-center">Photo: David Carpenter</figcaption> -->
 </figure>
 
@@ -453,7 +453,7 @@ EGZ 9390 has a 10' 0" wheelbase and as a former Norba demonstrator carries a Nor
 Whilst in service with Magee Haulage it had the Reg,. No. MAN 211
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/P%20Norba.jpg" class="figure-img img-fluid rounded" alt="EGZ 9390">
+  <img src="{{ site.baseurl }}/assets/Images2/P%20Norba.jpg" class="figure-img img-fluid rounded" alt="EGZ 9390">
   <!-- <figcaption class="figure-caption text-center">Photo: David Carpenter</figcaption> -->
 </figure>
 
@@ -462,7 +462,7 @@ Whilst in service with Magee Haulage it had the Reg,. No. MAN 211
 An SD P type now with flat bed body. Year of manufacture: 1991. <b>Original Owner:</b> Omagh District Council. <b>Owner:</b> Peter Johnston. Location: Lisburn, Northern Ireland.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/OJI%202936.jpg" class="figure-img img-fluid rounded" alt="OJI 2936">
+  <img src="{{ site.baseurl }}/assets/Images2/OJI%202936.jpg" class="figure-img img-fluid rounded" alt="OJI 2936">
   <!-- <figcaption class="figure-caption text-center">Photo: David Carpenter</figcaption> -->
 </figure>
 
@@ -481,7 +481,7 @@ Wayne Abbott from Sheffield operates a 1957 S&amp;D Freighlifter 18/82 and says 
 A 1971 SD Defiant fork lift truck is still operational in a timber yard in South Yorkshire.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Freightlifter.jpg" class="figure-img img-fluid rounded" alt="1971 SD Defiant fork lift truck">
+  <img src="{{ site.baseurl }}/assets/Images2/Freightlifter.jpg" class="figure-img img-fluid rounded" alt="1971 SD Defiant fork lift truck">
   <!-- <figcaption class="figure-caption text-center">Photo: David Carpenter</figcaption> -->
 </figure>
 
@@ -492,7 +492,7 @@ For details go to:- <a href="http://www.oilyhands.co.uk/Archive7.htm#Shelvoke_Dr
 A Model 82 Freightlifter has been preserved at the<b> National Fork Truck Heritage Museum at Swanwick Junction, Derbyshire.</p>
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/Freightlifter.jpg" class="figure-img img-fluid rounded" alt="Model 82 Freightlifter">
+  <img src="{{ site.baseurl }}/assets/Images/Freightlifter.jpg" class="figure-img img-fluid rounded" alt="Model 82 Freightlifter">
   <!-- <figcaption class="figure-caption text-center">Photo: David Carpenter</figcaption> -->
 </figure>
 
@@ -514,11 +514,11 @@ A Private Collection in N.E. England has ETN 909 W, a 1980 SPV Emergency Tender.
 A 1980 SPV Foam Tender. 
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Fire%20App.jpg" class="figure-img img-fluid rounded" alt="EBB 847 W">
+  <img src="{{ site.baseurl }}/assets/Images2/Fire%20App.jpg" class="figure-img img-fluid rounded" alt="EBB 847 W">
   <figcaption class="figure-caption text-center">Photo: The Author</figcaption>
 </figure>
 
-New to Tyne &amp; Wear as a foam tender, stationed at Whitley Bay Fire Station. In the late 1990's the Brigade moved away from dedicated foam tenders to Operational Support Tenders, which were multi-purpose. EBB 847 W was converted at this time. Its owner now uses it to transport his 1921 Dennis ['N' Type]({% link VN.md %}) to rallies etc.&nbsp; See:- <a href="http://www.dennisfire.co.uk/P13.htm" target="_blank">http://www.dennisfire.co.uk/P13.htm</a>
+New to Tyne &amp; Wear as a foam tender, stationed at Whitley Bay Fire Station. In the late 1990's the Brigade moved away from dedicated foam tenders to Operational Support Tenders, which were multi-purpose. EBB 847 W was converted at this time. Its owner now uses it to transport his 1921 Dennis ['N' Type]({{site.baseurl}}{% link VN.md %}) to rallies etc.&nbsp; See:- <a href="http://www.dennisfire.co.uk/P13.htm" target="_blank">http://www.dennisfire.co.uk/P13.htm</a>
 
 **Don't be alarmed if using this link! The two Shelvokes share a home with a host of Dennis' appliances.**
 
@@ -531,7 +531,7 @@ Originally in the service of Hereford and Worcester Fire Brigade, the vehicle sp
 It then moved to the Santa Pod Raceway in Northamptonshire, and is now at the Museum of RAF Fire Fighting at Scunthorpe.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/SPV%20Fire%20Appliance.jpg" class="figure-img img-fluid rounded" alt="RAB 498 P">
+  <img src="{{ site.baseurl }}/assets/Images2/SPV%20Fire%20Appliance.jpg" class="figure-img img-fluid rounded" alt="RAB 498 P">
   <!-- <figcaption class="figure-caption text-center">Photo: The Author</figcaption> -->
 </figure>
 
@@ -541,7 +541,7 @@ It then moved to the Santa Pod Raceway in Northamptonshire, and is now at the Mu
 A 1983/84 SPV Turntable ladder owned since 2017 by Dave Madden from Nottingham.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Turntable%20ladder.jpg" class="figure-img img-fluid rounded" alt="RAB 498 P">
+  <img src="{{ site.baseurl }}/assets/Images2/Turntable%20ladder.jpg" class="figure-img img-fluid rounded" alt="RAB 498 P">
   <!-- <figcaption class="figure-caption text-center">Photo: The Author</figcaption> -->
 </figure>
 
@@ -566,7 +566,7 @@ Cork City Fire Brigade still operated 82 C 1984 a 1981 ex-London Fire Brigade Hy
 Willie Bermingham from Longwood, Ireland, purchased this 1977 Shelvoke SPV Crash Tender in 2017 which has been abandoned in the corner of a field for the past 8 years. He reports that it is well worth restoring
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Crash%20Tender.jpg" class="figure-img img-fluid rounded" alt="1977 Shelvoke SPV Crash Tender">
+  <img src="{{ site.baseurl }}/assets/Images2/Crash%20Tender.jpg" class="figure-img img-fluid rounded" alt="1977 Shelvoke SPV Crash Tender">
   <!-- <figcaption class="figure-caption text-center">Photo: The Author</figcaption> -->
 </figure>
 
@@ -585,7 +585,7 @@ Latil 4 x 4 built 1938 Reg. No. <b>BMO 154,</b> and <b>OSU 375 </b>whose date of
 **OSU 375** was photographed by Peter Jarman at Weeting Steam Rally on 20th July 2003.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Latil.jpg" class="figure-img img-fluid rounded" alt="Latil OSU 375">
+  <img src="{{ site.baseurl }}/assets/Images2/Latil.jpg" class="figure-img img-fluid rounded" alt="Latil OSU 375">
   <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption>
 </figure>
 
@@ -594,7 +594,7 @@ Latil 4 x 4 built 1938 Reg. No. <b>BMO 154,</b> and <b>OSU 375 </b>whose date of
 I am grateful to Mr Steven Thomas for sending information about a 1920 Lacre Roadsweeper that was at the Stondon Transport Museum near Henlow, Beds.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Lacre.jpg" class="figure-img img-fluid rounded" alt="Lacre">
+  <img src="{{ site.baseurl }}/assets/Images2/Lacre.jpg" class="figure-img img-fluid rounded" alt="Lacre">
   <figcaption class="figure-caption text-center">Photo: Peter Jarman</figcaption>
 </figure>
 
@@ -606,7 +606,7 @@ The Stondon Musem closed in 2015 and on 10th June 2015 the sweeper was sold at a
 
 <div class="alert alert-primary" role="alert" markdown="1" style="margin-top:1em" >
 
-<i class="fa-solid fa-file-pdf"></i> View/Download [a PDF containing a full list of SD vehicles believed to be still in existence]({% link assets/files/Exist.pdf %}).
+<i class="fa-solid fa-file-pdf"></i> View/Download [a PDF containing a full list of SD vehicles believed to be still in existence]({{site.baseurl}}{% link /assets/files/Exist.pdf %}).
 
 </div>
 

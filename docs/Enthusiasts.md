@@ -12,7 +12,7 @@ Club for anyone with an interest in Shelvoke &amp; Drewry.
 ## Magazine
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Magazine.JPG" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
+  <img src="{{ site.baseurl }}/assets/Images2/Magazine.JPG" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
   <!--<figcaption class="figure-caption text-center">Preserved vehicle restored to 1922 condition.</figcaption>-->
 </figure>
 
@@ -24,7 +24,7 @@ By 2010 this was felt to be too onerous and the magazine was replaced by an easi
 ## Events
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/SD%20Celebrated.jpg" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
+  <img src="{{ site.baseurl }}/assets/Images2/SD%20Celebrated.jpg" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
   <!--<figcaption class="figure-caption text-center">Preserved vehicle restored to 1922 condition.</figcaption>-->
 </figure>
 
@@ -39,7 +39,7 @@ In 2009 the Club provided a stand at The Letchworth Garden City Industry Festiva
 In 2009 &amp;2010 preserved vehicles were displayed at the Southern Counties Historic Vehicles Preservation Trust's rallies at Edenbridge, Kent, in June.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Reunion.jpg" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
+  <img src="{{ site.baseurl }}/assets/Images2/Reunion.jpg" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
   <!--<figcaption class="figure-caption text-center">Preserved vehicle restored to 1922 condition.</figcaption>-->
 </figure>
 
@@ -56,7 +56,7 @@ On Sunday 25th September an event was held sat the Broadway Hotel, Letchworth Ga
 No further gatherings have been arranged to date.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/Facebook%20logo.jpg" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
+  <img src="{{ site.baseurl }}/assets/Images/Facebook%20logo.jpg" class="figure-img img-fluid rounded" alt="Preserved vehicle restored to 1922 condition">
   <!--<figcaption class="figure-caption text-center">Preserved vehicle restored to 1922 condition.</figcaption>-->
 </figure> 
  
@@ -148,7 +148,7 @@ I hope you'll enjoy this issue.
 *Brian Carpenter Editor 1st  December 2023* 
 
 <div class="alert alert-primary" role="alert" markdown="1" style="margin-top:1em" >
-<i class="fa-solid fa-file-pdf"></i> A <a href="/files/Issue52.pdf">shortened version of the Newsletter is also available as a pdf</a> file for easy printing.
+<i class="fa-solid fa-file-pdf"></i> A <a href="{{ site.baseurl }}/files/Issue52.pdf">shortened version of the Newsletter is also available as a pdf</a> file for easy printing.
 </div>
 
 ##### Index To Issue 52
@@ -157,36 +157,36 @@ I hope you'll enjoy this issue.
   <div class="col">
       <div class="card h-100" style="width: 18rem;">
       <div style="height:160px; overflow: hidden;">
-            <img src="/assets/Images3/pic20.jpeg" class="card-img-top" alt="...">
+            <img src="{{ site.baseurl }}/assets/Images3/pic20.jpeg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
       <h5 class="card-title">Page 1</h5>
       <p class="card-text">Future Plans for the Newsletter.</p>
-      <a href="/pg1" class="btn btn-primary">Go to Page 1</a>
+      <a href="{{ site.baseurl }}/pg1" class="btn btn-primary">Go to Page 1</a>
       </div>
       </div>
   </div>
   <div class="col">
       <div class="card h-100" style="width: 18rem;">
       <div style="height:160px; overflow: hidden">
-      <img src="/assets/Images3/pic42.jpg" class="card-img-top" alt="...">
+      <img src="{{ site.baseurl }}/assets/Images3/pic42.jpg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
       <h5 class="card-title">Page 2</h5>
       <p class="card-text">The SD Enthusiasts' Club's Achievements.</p>
-      <a href="/pg1#page-2" class="btn btn-primary">Go to Page 2</a>
+      <a href="{{ site.baseurl }}/pg1#page-2" class="btn btn-primary">Go to Page 2</a>
       </div>
       </div>
   </div>
   <div class="col">
       <div class="card h-100" style="width: 18rem;">
       <div style="height:160px; overflow: hidden">
-      <img src="/assets/Images/Factory%201.jpg" class="card-img-top" alt="...">
+      <img src="{{ site.baseurl }}/assets/Images/Factory%201.jpg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
       <h5 class="card-title">Page 3</h5>
       <p class="card-text">A Brief History of the Company.</p>
-      <a href="/pg1#page-3" class="btn btn-primary">Go to Page 3</a>
+      <a href="{{ site.baseurl }}/pg1#page-3" class="btn btn-primary">Go to Page 3</a>
       </div>
       </div>
   </div>
@@ -198,7 +198,7 @@ I hope you'll enjoy this issue.
       <div class="card-body">
       <h5 class="card-title">Page 4</h5>
       <p class="card-text">Keeping the Name Alive in the 21st Century.</p>
-      <a href="/pg1#page-4" class="btn btn-primary">Go to Page 4</a>
+      <a href="{{ site.baseurl }}/pg1#page-4" class="btn btn-primary">Go to Page 4</a>
       </div>
       </div>
   </div>
@@ -210,19 +210,19 @@ I hope you'll enjoy this issue.
       <div class="card-body">
       <h5 class="card-title">Page 5</h5>
       <p class="card-text">Surviving SD Vehicles.</p>
-      <a href="/pg1#page-5" class="btn btn-primary">Go to Page 5</a>
+      <a href="{{ site.baseurl }}/pg1#page-5" class="btn btn-primary">Go to Page 5</a>
       </div>
       </div>
   </div>
   <div class="col">
       <div class="card h-100" style="width: 18rem;">
       <div style="height:160px; overflow: hidden">
-      <img src="/assets/Images3/pic37.jpg" class="card-img-top" alt="...">
+      <img src="{{ site.baseurl }}/assets/Images3/pic37.jpg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
       <h5 class="card-title">Page 6</h5>
       <p class="card-text">News Bulletin.</p>
-      <a href="/pg1#page-6" class="btn btn-primary">Go to Page 6</a>
+      <a href="{{ site.baseurl }}/pg1#page-6" class="btn btn-primary">Go to Page 6</a>
       </div>
       </div>
   </div>
@@ -250,7 +250,7 @@ There are many other news articles here and again I'm grateful to all those peop
 
 
 <div class="alert alert-primary" role="alert" markdown="1" style="margin-top:1em" >
-<i class="fa-solid fa-file-pdf"></i> A <a href="/files/Issue51.pdf">shortened version of the Newsletter is also available as a pdf</a> file for easy printing.
+<i class="fa-solid fa-file-pdf"></i> A <a href="{{ site.baseurl }}/files/Issue51.pdf">shortened version of the Newsletter is also available as a pdf</a> file for easy printing.
 </div>
 
 ##### Index To Issue 51
@@ -259,36 +259,36 @@ There are many other news articles here and again I'm grateful to all those peop
   <div class="col">
       <div class="card h-100" style="width: 18rem;">
       <div style="height:160px; overflow: hidden;">
-            <img src="/assets/Images3/pic05.jpg" class="card-img-top" alt="...">
+            <img src="{{ site.baseurl }}/assets/Images3/pic05.jpg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
       <h5 class="card-title">Page 1</h5>
       <p class="card-text">Some interesting SD Freighters.</p>
-      <a href="/p1" class="btn btn-primary">Go to Page 1</a>
+      <a href="{{ site.baseurl }}/p1" class="btn btn-primary">Go to Page 1</a>
       </div>
       </div>
   </div>
   <div class="col">
       <div class="card h-100" style="width: 18rem;">
       <div style="height:160px; overflow: hidden">
-      <img src="/assets/Images3/pic08.jpg" class="card-img-top" alt="...">
+      <img src="{{ site.baseurl }}/assets/Images3/pic08.jpg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
       <h5 class="card-title">Page 2</h5>
       <p class="card-text">The Last Days of the Horse Drawn Dustcart.</p>
-      <a href="/p1#page-2" class="btn btn-primary">Go to Page 2</a>
+      <a href="{{ site.baseurl }}/p1#page-2" class="btn btn-primary">Go to Page 2</a>
       </div>
       </div>
   </div>
   <div class="col">
       <div class="card h-100" style="width: 18rem;">
       <div style="height:160px; overflow: hidden">
-      <img src="/assets/Images3/pic15.jpg" class="card-img-top" alt="...">
+      <img src="{{ site.baseurl }}/assets/Images3/pic15.jpg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
       <h5 class="card-title">Page 3</h5>
       <p class="card-text">Mrs. Freda Tassell</p>
-      <a href="/p1#page-3" class="btn btn-primary">Go to Page 3</a>
+      <a href="{{ site.baseurl }}/p1#page-3" class="btn btn-primary">Go to Page 3</a>
       </div>
       </div>
   </div>
@@ -300,7 +300,7 @@ There are many other news articles here and again I'm grateful to all those peop
       <div class="card-body">
       <h5 class="card-title">Page 4</h5>
       <p class="card-text">The Model Scene.</p>
-      <a href="/p1#page-4" class="btn btn-primary">Go to Page 4</a>
+      <a href="{{ site.baseurl }}/p1#page-4" class="btn btn-primary">Go to Page 4</a>
       </div>
       </div>
   </div>
@@ -312,7 +312,7 @@ There are many other news articles here and again I'm grateful to all those peop
       <div class="card-body">
       <h5 class="card-title">Page 5</h5>
       <p class="card-text">News of Surviving SD Vehicles.</p>
-      <a href="/p1#page-5" class="btn btn-primary">Go to Page 5</a>
+      <a href="{{ site.baseurl }}/p1#page-5" class="btn btn-primary">Go to Page 5</a>
       </div>
       </div>
   </div>
@@ -324,7 +324,7 @@ There are many other news articles here and again I'm grateful to all those peop
       <div class="card-body">
       <h5 class="card-title">Page 6</h5>
       <p class="card-text">The Editor's Page.</p>
-      <a href="/p1#page-6" class="btn btn-primary">Go to Page 6</a>
+      <a href="{{ site.baseurl }}/p1#page-6" class="btn btn-primary">Go to Page 6</a>
       </div>
       </div>
   </div>

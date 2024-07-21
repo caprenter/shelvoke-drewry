@@ -14,7 +14,7 @@ background: '/assets/Images3/pic20.jpeg'
 ### Final Issue
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic20.jpeg" class="figure-img img-fluid rounded" alt="Visitors to the SD Centenary Celebration at the Broadway Hotel in September 2022.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic20.jpeg" class="figure-img img-fluid rounded" alt="Visitors to the SD Centenary Celebration at the Broadway Hotel in September 2022.">
   <figcaption class="figure-caption text-center">Visitors to the SD Centenary Celebration at the Broadway Hotel in September 2022.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ In <b>2009</b> the Club provided a stand at The Letchworth Garden City Industry 
 In <b>2009 &amp; &nbsp;2010</b> preserved vehicles were displayed at the Southern Counties Historic Vehicles Preservation Trust's rallies at Edenbridge, Kent, in June.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic42.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
+  <img src="{{ site.baseurl }}/assets/Images3/pic42.jpg" class="figure-img img-fluid rounded" alt="The Fore &amp; Aft Tipper">
   <!--<figcaption class="figure-caption text-center">WH Allen</figcaption>-->
 </figure>
 
@@ -72,13 +72,13 @@ By The Editor
   <div class="d-flex flex-wrap">
     <div class="col-sm-6">
       <figure class="figure w-100 h-100 text-center">
-        <img src="/assets/Images3/pic21.jpg" class="figure-img img-fluid rounded" alt="Harry Shelvoke">
+        <img src="{{ site.baseurl }}/assets/Images3/pic21.jpg" class="figure-img img-fluid rounded" alt="Harry Shelvoke">
         <figcaption class="figure-caption text-center">Harry Shelvoke</figcaption>
       </figure>
     </div>
     <div class="col-sm-6">
       <figure class="figure w-100 h-100 text-center">
-        <img src="/assets/Images3/pic22.jpg" class="figure-img img-fluid rounded" alt="James Drewry">
+        <img src="{{ site.baseurl }}/assets/Images3/pic22.jpg" class="figure-img img-fluid rounded" alt="James Drewry">
         <figcaption class="figure-caption text-center">James Drewry</figcaption>
       </figure>
     </div>
@@ -91,7 +91,7 @@ By The Editor
 <p>It appears to be impossible at this time to determine the exact roles that Harry Shelvoke and James Drewry took in conceiving, designing and making a prototype light lorry whilst they both worked at Lacre Lorries in Letchworth Garden City. Clearly the    believed that they could work together to form a successful engineering company, and Shelvoke &amp; Drewry Ltd was launched in 1922 to manufacture the SD Freighter.</p>
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic23.jpg" class="figure-img img-fluid rounded" alt="A very basic early SD Freighter">
+  <img src="{{ site.baseurl }}/assets/Images3/pic23.jpg" class="figure-img img-fluid rounded" alt="A very basic early SD Freighter">
   <figcaption class="figure-caption text-center">A very basic early SD Freighter</figcaption>
 </figure>
 
@@ -105,14 +105,14 @@ James Drewry had a lively and inventive mind and in 2022 Malcolm Easton publishe
 
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic24.jpg" class="figure-img img-fluid rounded" alt="An early'W' type Fore &amp; Aft tipper tips forwards.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic24.jpg" class="figure-img img-fluid rounded" alt="An early'W' type Fore &amp; Aft tipper tips forwards.">
   <figcaption class="figure-caption text-center">An early'W' type Fore &amp; Aft tipper tips forwards.</figcaption>
 </figure>
 
 <p>1952 saw a complete new venture for the company when it was commissioned by the London Brick Company to design and build heavy duty fork lift trucks. These were termed Freightlifters, built in three sizes, and made a welcome addition to SD's output. </p>
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic25.jpg" class="figure-img img-fluid rounded" alt="A Model 82 Freightlifter">
+  <img src="{{ site.baseurl }}/assets/Images3/pic25.jpg" class="figure-img img-fluid rounded" alt="A Model 82 Freightlifter">
   <figcaption class="figure-caption text-center">A Model 82 Freightlifter</figcaption>
 </figure>
 
@@ -121,21 +121,21 @@ James Drewry had a lively and inventive mind and in 2022 Malcolm Easton publishe
 <p>S&amp;D discovered that Tom Tillson, Chief Engineer at their customary main rival, Dennis Bros, was willing to move and join the company. Tom immediately set about designing a new range of vehicles designated the 'T' type. The range included the Pakamatic with an aluminium alloy body and a hydraulically operated packing mechanism based on the French Rey design, which was launched in 1960.</p>
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic26.jpg" class="figure-img img-fluid rounded" alt="An early TY Pakamatic.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic26.jpg" class="figure-img img-fluid rounded" alt="An early TY Pakamatic.">
   <figcaption class="figure-caption text-center">An early TY Pakamatic.</figcaption>
 </figure>
 
 The Freightlifter range had been superseded by the Defiant range of fork lift trucks in 1962, and in 1974 it was decided to close the fork lift division. In its place a Special Purpose Vehicle Division  was created, which had varying fortunes, the SD Fire Appliances were well regarded and a large order from the London Fire Brigade was an endorsement of their quality. But many of the projects produced workmanlike useful vehicles, but if they were successful the much larger commercial vehicle manufacturers could produce similar vehicles at much lower cost.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic27.jpg" class="figure-img img-fluid rounded" alt="Ex-London Fire Brigade WX Pump Escape.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic27.jpg" class="figure-img img-fluid rounded" alt="Ex-London Fire Brigade WX Pump Escape.">
   <figcaption class="figure-caption text-center">Ex-London Fire Brigade WX Pump Escape.</figcaption>
 </figure>
 
 In 1978  the 'P' series came into production with an all steel tilting cab made in house. Normally supplied with a Revopak body the 'P' became a market leader in the home market achieving a 60% share of the market.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic28.jpg" class="figure-img img-fluid rounded" alt="A PY Revopak Demonstrator.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic28.jpg" class="figure-img img-fluid rounded" alt="A PY Revopak Demonstrator.">
   <figcaption class="figure-caption text-center">A PY Revopak Demonstrator.</figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ Some people who are  keeping the memories and reputation of the company are   th
 By sheer coincidence at the end of the year in which I'd launched the Website, Channel 4 TV broadcast in their Salvage Squad series a programme about the ex-Isles of Scilly 1982 PN Revopak Reg. No. SCY 786 X owned by Steve Jones from Sandown, Isle of Wight. Steve became fascinated by dustcarts at an early age and was unable to resist staring from the school window every week when the bins were emptied. Publicity by the TV company immediately gave me a list of contacts sufficient to launch the Enthusiasts' Club in 2003. Steve also owns a PNL Revopak which is undergoing restoration.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic29.JPG" class="figure-img img-fluid rounded" alt="Steve at the wheel of his PN Revopak.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic29.JPG" class="figure-img img-fluid rounded" alt="Steve at the wheel of his PN Revopak.">
   <figcaption class="figure-caption text-center">Steve at the wheel of his PN Revopak.</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ Unusually for S&amp;D Malcolm came to the company as a young man in 1969 not hav
 Malcolm was designated the title of Publicity Manager, attached to the Sales Department, despite only managing himself, with responsibility to design and produce all sales brochures, arrange photographs, and produce cutaway drawings for the Drawing Office. He also was given responsibility for replying to letters.sent in requesting information about SD's previous products. This allowed him access to SD's photo book master archive.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic30.jpg" class="figure-img img-fluid rounded" alt="Malcolm on the left  at Letchworth September 2022.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic30.jpg" class="figure-img img-fluid rounded" alt="Malcolm on the left  at Letchworth September 2022.">
   <figcaption class="figure-caption text-center">Malcolm on the left  at Letchworth September 2022.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ Then finally he is the owner of the ex-Folkestone Freighter KP 7670 restored to 
 Peter was in charge of refuse collection for the City of Belfast in Northern Ireland. On retirement he acquired McCreath Taylor  N.I. Ltd &#8211; a company that had represented S&amp;D in Ireland. Then, along with his son, David, he caught the collecting bug, and now has a fleet of some seven vehicles most of which have been beautifully restored with two remaining as future projects.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic31.JPG" class="figure-img img-fluid rounded" alt="1959 Fore &amp; Aft tipper.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic31.JPG" class="figure-img img-fluid rounded" alt="1959 Fore &amp; Aft tipper.">
   <figcaption class="figure-caption text-center">1959 Fore &amp; Aft tipper.</figcaption>
 </figure>
 
@@ -196,7 +196,7 @@ Peter was in charge of refuse collection for the City of Belfast in Northern Ire
 Brothers Aled and Matthew from Bristol have acquired a large number of refuse collection vehicles from various manufacturers with the intention of eventually creating a Refuse Collection  Vehicle Museum. Included is the only 'N' series Revopak thought to exist in the U.K., an unusual 1963 T converted into a breakdown truck by the London Borough of Newham, three 'P' series Revopaks, a PY Maxipak, a Defiant fork truck and several other vehicles &#8211; some in a very sorry state. Once again preserving the SD story.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic32.JPG" class="figure-img img-fluid rounded" alt="The Rees Brothers' 1974 NY Revopak.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic32.JPG" class="figure-img img-fluid rounded" alt="The Rees Brothers' 1974 NY Revopak.">
   <figcaption class="figure-caption text-center">The Rees Brothers' 1974 NY Revopak.</figcaption>
 </figure>
 
@@ -207,7 +207,7 @@ Brothers Aled and Matthew from Bristol have acquired a large number of refuse co
 Husband and wife Terry and Chris Prince are the owners of four ex-London Fire Brigade SPV pumps from 1979 &amp; 1980.  One is a pump escape with the remainder converted by the LFB to pump ladders. The majority of these have been beautifully restored by many hours of hard work by Terry, a fire appliance enthusiast since his school days.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic33.JPG" class="figure-img img-fluid rounded" alt="Chris &amp;Terry Prince with Pump Escape Reg. No. YHV 1187 T June 2022 at Gaydon.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic33.JPG" class="figure-img img-fluid rounded" alt="Chris &amp;Terry Prince with Pump Escape Reg. No. YHV 1187 T June 2022 at Gaydon.">
   <figcaption class="figure-caption text-center">Chris &amp;Terry Prince with Pump Escape Reg. No. YHV 1187 T June 2022 at Gaydon.</figcaption>
 </figure>
 
@@ -226,7 +226,7 @@ Finally Macolm Easton, the grandson of James Drewry published a comprehensive bi
 Tommy Moore sent in this photo of the ex-Barking 1972 TZ Gully Emptier Reg. No. KLK 464 K which has been beautifully restored in  Northern Ireland. The vehicle was purchased in 2017.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic39.jpg" class="figure-img img-fluid rounded" alt="ex-Barking 1972 TZ Gully Emptier">
+  <img src="{{ site.baseurl }}/assets/Images3/pic39.jpg" class="figure-img img-fluid rounded" alt="ex-Barking 1972 TZ Gully Emptier">
   <!-- <figcaption class="figure-caption text-center">ex-Barking 1972 TZ Gully Emptier</figcaption> -->
 </figure>
 
@@ -240,7 +240,7 @@ Malcolm Bates tells me that he has located two more Defiant fork trucks that hav
 <b>GWJ 867 J</b> is a 1970 TBN Fore &amp;N Aft tipper which covered 71,855 miles in the service of Sheffield City Council. Retired in 1982 it was restored by its owners. It has been stored outdoors for several years, but Council are now considering its future. It had a watertight rear door for when it was used for night soil collection.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic38.jpg" class="figure-img img-fluid rounded" alt="At Work in Sheffield.">
+  <img src="{{ site.baseurl }}/assets/Images3/pic38.jpg" class="figure-img img-fluid rounded" alt="At Work in Sheffield.">
   <figcaption class="figure-caption text-center">Photo
 courtesy City of Sheffield Council.</figcaption>
 </figure>
@@ -249,7 +249,7 @@ courtesy City of Sheffield Council.</figcaption>
 We have been informed by Malcolm Bates that the ex-Folkestone SD Freighter Reg. No. KP 7670 which was restored to 1922 condition by the SD apprentices and completed in 1968, has been moved to the covered premises of a local farmer. After being returned from Northern Ireland in 2022 the vehicle has been stored under its cover in the open air, so this is very good news.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/1922%20Freighter.jpg" class="figure-img img-fluid rounded" alt="ex-Folkestone SD Freighter">
+  <img src="{{ site.baseurl }}/assets/Images/1922%20Freighter.jpg" class="figure-img img-fluid rounded" alt="ex-Folkestone SD Freighter">
   <!-- <figcaption class="figure-caption text-center">Photo courtesy City of Sheffield Council.</figcaption> -->
 </figure>
 
@@ -264,7 +264,7 @@ We have been informed by Malcolm Bates that the ex-Folkestone SD Freighter Reg. 
 ##### David potter
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic34.jpg" class="figure-img img-fluid rounded" alt="David potter">
+  <img src="{{ site.baseurl }}/assets/Images3/pic34.jpg" class="figure-img img-fluid rounded" alt="David potter">
   <!-- <figcaption class="figure-caption text-center">Photo courtesy City of Sheffield Council.</figcaption> -->
 </figure>
 
@@ -278,14 +278,14 @@ David accumulated a large collection of SD memorabilia, and was a keen supporter
 
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic35.JPG" class="figure-img img-fluid rounded" alt="David potter">
+  <img src="{{ site.baseurl }}/assets/Images3/pic35.JPG" class="figure-img img-fluid rounded" alt="David potter">
   <!-- <figcaption class="figure-caption text-center">Photo courtesy City of Sheffield Council.</figcaption> -->
 </figure>
 
 #### Shaun Flies the Flag for Shelvokes
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic36.jpg" class="figure-img img-fluid rounded" alt="model of a PNL Plus Revopak">
+  <img src="{{ site.baseurl }}/assets/Images3/pic36.jpg" class="figure-img img-fluid rounded" alt="model of a PNL Plus Revopak">
   <!-- <figcaption class="figure-caption text-center">Photo courtesy City of Sheffield Council.</figcaption> -->
 </figure>
 
@@ -294,7 +294,7 @@ Shaun Taylor has produced an excellent model of a PNL Plus Revopak which he has 
 ### A Freightlifter at Work
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic37.jpg" class="figure-img img-fluid rounded" alt="a Model 82">
+  <img src="{{ site.baseurl }}/assets/Images3/pic37.jpg" class="figure-img img-fluid rounded" alt="a Model 82">
   <!-- <figcaption class="figure-caption text-center">Photo courtesy City of Sheffield Council.</figcaption> -->
 </figure>
 
@@ -306,7 +306,7 @@ Membership of the Group now stands at 976 members. I am trying to find ways to m
 
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic40.jpg" class="figure-img img-fluid rounded" alt="a Model 82">
+  <img src="{{ site.baseurl }}/assets/Images3/pic40.jpg" class="figure-img img-fluid rounded" alt="a Model 82">
   <!-- <figcaption class="figure-caption text-center">Photo courtesy City of Sheffield Council.</figcaption> -->
 </figure>
 
@@ -323,7 +323,7 @@ Membership of the Group now stands at 976 members. I am trying to find ways to m
 ### A SPECIAL THANK YOU
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images3/pic41.jpg" class="figure-img img-fluid rounded" alt="a Model 82">
+  <img src="{{ site.baseurl }}/assets/Images3/pic41.jpg" class="figure-img img-fluid rounded" alt="a Model 82">
   <!-- <figcaption class="figure-caption text-center">Photo courtesy City of Sheffield Council.</figcaption> -->
 </figure>
 

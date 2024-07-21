@@ -19,7 +19,7 @@ This is the definitive history of the Company up to the end of the 1970's. Using
 
 Richly illustrated the book details both municipal vehicles from the first freighter, through the Fore &amp; Aft tipper, Pakamatic and Revopak models, and includes details of Fork Lift Truck manufacture and the Special Vehicle division created in 1979.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images/Kaleidoscope.jpg" border="0" /></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images/Kaleidoscope.jpg" border="0" /></div>
 </div>
 
 <div class="row">
@@ -35,7 +35,7 @@ Malcolm Bates was employed by S&amp;D&nbsp; from 1969 for fourteen years becomin
       
 The happenings after the 1980 publication of Kaleidoscope of Shelvoke &amp; Drewry and the closure of the company in 1991 are covered.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images2/Bookazine%202020.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images2/Bookazine%202020.jpg"></div>
 </div>
 
 
@@ -53,7 +53,7 @@ The vehicle carries the livery of the Borough of Folkestone.
 
 An article about Motor Panels (Coventry) Ltd. refers to S &amp; D's use of their Mark III cabs.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images/Vintage%20Lorry.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images/Vintage%20Lorry.jpg"></div>
 </div>
 
 
@@ -67,7 +67,7 @@ ISBN 0 9521070 4 X
 
 Barrie Woods is an ex-employee of Shelvoke &amp; Drewry and Norba and he gives an informative history of British Municipal Refuse collection vehicles. Hardly surprisingly the largest descriptions are of S &amp; D and Dennis vehicles.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images/Nostalgia%20Road.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images/Nostalgia%20Road.jpg"></div>
 </div>
 
 <div class="row">
@@ -83,7 +83,7 @@ This issue contains an article by Bill Aldridge entitled "Municipal Workhorses -
 An article "Bringing the Bricks to the Builder" by Bill Aldridge mainly concerns the road fleet of the London Brick Company. However reference is made to the fact that S &amp; D supplied over 150 Fork Lift trucks to the company, and that some of these lasted in service for
 more than twenty years.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images/Vintage%20Motor.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images/Vintage%20Motor.jpg"></div>
 </div>
 
 <div class="row">
@@ -100,7 +100,7 @@ This small volume contains three photographs of vehicles produced under the Shel
 * A Route Chief 623 with the American designed Dempster rear loading system.
 * An SPV fire appliance chassis with Angloco bodywork.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images/Trucks%20book.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images/Trucks%20book.jpg"></div>
 </div>
 
 <div class="row">
@@ -117,7 +117,7 @@ The January 2006 issue has an article about Clive MacDonald's preserved Newham r
 
 The May 2012 issue reports on Peter Johnston's restored SD Freighter first registered on 1st March 1929 to Irish agricultural machinery maker Pierce of Wexford. The article also carries a brief history of the SD Freighter. (In the July 2011 issue an article features the restoration work of Jimmy McAleer of Fintona, near Omagh, who restored Peter's Freighter to superb condition.)
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images2/CVC%20Mag.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images2/CVC%20Mag.jpg"></div>
 </div>
 
 
@@ -136,7 +136,7 @@ followed.
 
 For anyone interested in this aspect of the history of Shelvoke &amp; Drewry this article is a &nbsp;mine of information. So I hope you have as successful a search as I have.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images2/Buses%20Extra%2049.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images2/Buses%20Extra%2049.jpg"></div>
 </div>
 
 <div class="row">
@@ -147,7 +147,7 @@ Bill Aldridge.
 
 Not only does Bill give a fascinating account of brick production but he also tells the story of handling and transporting the London Brick Company's products. Shelvoke's Freightlifter and Defiant forklift trucks feature in the story. So too do the Refuse Vehicles as the brick pits were used for landfill and L.B.C. became engaged in the waste disposal business. A thoroughly recommended read.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images2/LBC%20Book.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images2/LBC%20Book.jpg"></div>
 </div>
 
 
@@ -167,7 +167,7 @@ Anyone with an interest in S &amp; D will find a fascinating insight into a more
 
 For ordering details see:<a href="http://www.southdownenthusiastsclub.org.uk" target="_blank"> www.southdownenthusiastsclub.org.uk</a>
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images2/tramocar_book.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images2/tramocar_book.jpg"></div>
 </div>
 
 
@@ -183,7 +183,7 @@ ISBN 1 86077 213 7
 
 Several references to Shelvoke &amp; Drewry appear in this comprehensive history of the Garden City.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images2/Letchworth%20book.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images2/Letchworth%20book.jpg"></div>
 </div>
 
 <div class="row">
@@ -197,7 +197,7 @@ ISBN 978-1-910554-27-2
 
 Former SD Publicity Manager, Malcolm Bates, naturally gives a very prominent place to the vehicles produced by Shelvoke &amp; Drewry in this lavishly illustrated 98 page 'bookazine'. Included is a chapter on preserved vehicles and reproductions of sales brochures. The publication is part of Vintage Roadscene's &nbsp;Road Haulage Archive.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images2/On%20the%20Dust.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images2/On%20the%20Dust.jpg"></div>
 </div>
 
 <div class="row">
@@ -214,7 +214,7 @@ Clearly James Drewry kept many documents relating to his career as a distinguish
       
 The book is A5 format and 118 pages long and extensively illustrated. The purchase price is £8.00 plus £2.40 post &amp; packing where appropriate. The Editor can supply a contact address.
 </div>
-<div class="col-sm-4"><img class="img-fluid" src="/assets/Images2/Drewry%20book.jpg"></div>
+<div class="col-sm-4"><img class="img-fluid" src="{{ site.baseurl }}/assets/Images2/Drewry%20book.jpg"></div>
 </div>
 
 </div>
@@ -222,7 +222,7 @@ The book is A5 format and 118 pages long and extensively illustrated. The purcha
 # Vintage Roadscene Magazine
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Roadscene%20Heading%20A..jpg" class="figure-img img-fluid rounded" alt="Vintage Roadscene Magazine">
+  <img src="{{ site.baseurl }}/assets/Images2/Roadscene%20Heading%20A..jpg" class="figure-img img-fluid rounded" alt="Vintage Roadscene Magazine">
   <!--<figcaption class="figure-caption text-center">An early version of the SD Freighter. Photo: Vintage Pictures..</figcaption>-->
 </figure> 
 
@@ -231,7 +231,7 @@ In 2010 Malcolm Bates, former SD employee, where he managed the sales publicity,
 {: .table .table-striped}
 | Issue | Description |
 | --- | --- |
-| Issue 123 February 2010 | In the first of these articles Malcolm looked at the early days of the SD Freighter and showed examples of the ['W' Type]({% link VW.md %}) with a moving floor&nbsp;type body and the Fore &amp; Aft tipper. |
+| Issue 123 February 2010 | In the first of these articles Malcolm looked at the early days of the SD Freighter and showed examples of the ['W' Type]({{site.baseurl}}{% link VW.md %}) with a moving floor&nbsp;type body and the Fore &amp; Aft tipper. |
 | Issue 124 &nbsp;March 2010 |In the 1960's compaction type bodies were introduced such as S&amp;D's Pakamatic and Revopak and the Eagle Compressmore. |
 | Issue 125 April 2010 |For this issue Malcolm turned his attention to the effect of 'competitive tendering' under the Margaret Thatcher led Conservative government.&nbsp;Also in this issue Ron Henderson wrote about S&amp;D's SPV fire appliances. |
 | Issue 126 May 2010 |The growth of commercial waste companies was the theme for this issue. |
@@ -249,8 +249,8 @@ In 2010 Malcolm Bates, former SD employee, where he managed the sales publicity,
 | --- | --- |
 | Issue 147 February 2012 | Whilst writing about Guy vehicles Malcolm Bates managed to sneak&nbsp;in a picture of a Defiant 26 fork lift truck loading a Guy Warrior truck.|
 | Issue149 April 2012 | in a series entitled 'Top 10 Life Changing Commercials', Malcolm turned his attention to S&amp;D once more, principally featuring the Special Purpose Vehicle Division. |
-| Issue 168 November 2013 | Malcolm Bates visits McCreath Taylor in Lisburn, Northern Ireland and drives the newly restored ['W' Type]({% link VW.md %}) Fore &amp; Aft tipper. The 'W' features on the front cover.|
-| Issue 170 January 2014 |  Once again a Shelvoke graces the front cover. This time it's a Defiant fork lift truck loading a London Brick Company's AEC with bricks.<br> Inside over eight pages Malcolm Bates relates the story of the early days of mechanical handling. And as we'd expect the article mainly focuses on SD's Freightlifter and Defiant fork lift trucks.&nbsp;<br> Also on the letters page there are two photos of an unusual water tanker on a ['T' Type]({% link VT.md %}) chassis.|
+| Issue 168 November 2013 | Malcolm Bates visits McCreath Taylor in Lisburn, Northern Ireland and drives the newly restored ['W' Type]({{site.baseurl}}{% link VW.md %}) Fore &amp; Aft tipper. The 'W' features on the front cover.|
+| Issue 170 January 2014 |  Once again a Shelvoke graces the front cover. This time it's a Defiant fork lift truck loading a London Brick Company's AEC with bricks.<br> Inside over eight pages Malcolm Bates relates the story of the early days of mechanical handling. And as we'd expect the article mainly focuses on SD's Freightlifter and Defiant fork lift trucks.&nbsp;<br> Also on the letters page there are two photos of an unusual water tanker on a ['T' Type]({{site.baseurl}}{% link VT.md %}) chassis.|
 | Issue 172 (171?) February 2014 | Under the Title 'Binwagon History BC' Malcolm Bates writes about refuse collection before compaction and features the introduction of SD's Fore &amp; Aft tipper. A further article by Steve Jones reveals his desire to see an 'N' series repatriated from Malta into preservation.|
 | Issue 172 March 2014 | In this issue Malcolm Bates relates the introduction of the Pakamatic on chassis designed under the leadership of Tom Tillson.|
 | Issue 173 April  2014 | In Part 3 of 'The History of the Bin Wagon' Malcolm Bates relates how the SD Revopak was designed in response to the  changing nature of refuse In particular the adoption of plastic  refuse sacks had demonstrated some of the limitations of the Pakamatic design.  The Revopaks rotating tines made short work of plastic sacks as it did of  discarded fridges, wardrobes etc.  With his exhaustive knowledge of Shelvoke &amp; Drewry Malcolm relates how as local authorities realised the advantages of wheelie bins the dominance of foreign manufacturers of bin lifts benefitted foreign manufacturers of complete refuse collection vehicles also.  The era of British manufacture of specialised RCV's was almost at an end.|

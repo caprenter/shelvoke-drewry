@@ -22,7 +22,7 @@ background: '/assets/Images6/p03.jpg'
 # The SD Facebook Group
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/F%20%26%20A%20Sheffield.jpg" class="figure-img img-fluid rounded" alt="Sheffield">
+  <img src="{{ site.baseurl }}/assets/Images/F%20%26%20A%20Sheffield.jpg" class="figure-img img-fluid rounded" alt="Sheffield">
   <!--<figcaption class="figure-caption text-center">An early version of the SD Freighter. Photo: Vintage Pictures..</figcaption>-->
 </figure> 
 
@@ -36,7 +36,7 @@ More photos can be found on:
 Collections include:- SD Remembered 2004, Old Warden Rally 2005, Edenbridge Rally 2009, National Fork Truck Heritage Centre and the Letchworth Industrial Hertage Festival from 2009.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/P%20series%20preserved.jpg" class="figure-img img-fluid rounded" alt="P series">
+  <img src="{{ site.baseurl }}/assets/Images2/P%20series%20preserved.jpg" class="figure-img img-fluid rounded" alt="P series">
   <!--<figcaption class="figure-caption text-center">An early version of the SD Freighter. Photo: Vintage Pictures..</figcaption>-->
 </figure> 
 
@@ -45,7 +45,7 @@ Collections include:- SD Remembered 2004, Old Warden Rally 2005, Edenbridge Rall
 Terry Prince has [photos of SD SPV Fire Appliances <i class="fa fa-arrow-up-right-from-square" aria-hidden="true"></i>](http://www.flickr.com/photos/16677112%40N07/){:target="_blank" rel="noopener noreferrer"}
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Fire%20App.jpg" class="figure-img img-fluid rounded" alt="Fire Appliances">
+  <img src="{{ site.baseurl }}/assets/Images2/Fire%20App.jpg" class="figure-img img-fluid rounded" alt="Fire Appliances">
   <!--<figcaption class="figure-caption text-center">An early version of the SD Freighter. Photo: Vintage Pictures..</figcaption>-->
 </figure> 
 
@@ -58,7 +58,7 @@ Two Shelvoke &amp; Drewry Fire Tenders are pictured on this Web site.<b> ETN 909
 # The Welfreighter Submersible
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Welfreighter.jpg" class="figure-img img-fluid rounded" alt="The Welfreighter">
+  <img src="{{ site.baseurl }}/assets/Images2/Welfreighter.jpg" class="figure-img img-fluid rounded" alt="The Welfreighter">
   <!--<figcaption class="figure-caption text-center">An early version of the SD Freighter. Photo: Vintage Pictures..</figcaption>-->
 </figure> 
 
@@ -71,7 +71,7 @@ For an overview of the international scene on refuse collection vehicles Eric Vo
 The website includes an entry on Shelvoke &amp; Drewry.
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Malta%20Demo.jpg" class="figure-img img-fluid rounded" alt="Refuse Trucks In Malta">
+  <img src="{{ site.baseurl }}/assets/Images2/Malta%20Demo.jpg" class="figure-img img-fluid rounded" alt="Refuse Trucks In Malta">
   <!--<figcaption class="figure-caption text-center">An early version of the SD Freighter. Photo: Vintage Pictures..</figcaption>-->
 </figure> 
 
@@ -79,7 +79,7 @@ The website includes an entry on Shelvoke &amp; Drewry.
 # Historical Interest
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Broadway%20Gardens.jpg" class="figure-img img-fluid rounded" alt="Broadway Gardens Letchworth.">
+  <img src="{{ site.baseurl }}/assets/Images2/Broadway%20Gardens.jpg" class="figure-img img-fluid rounded" alt="Broadway Gardens Letchworth.">
   <figcaption class="figure-caption text-center">Broadway Gardens Letchworth.</figcaption>
 </figure> 
 
@@ -111,7 +111,7 @@ Accounts of operating S&amp;D vehicles can be found on
 
 Lisburn Council - <a href="http://www.lisburn.com/books/lisburn_miscellany/miscellany.html" target="_blank">www.lisburn.com/books/lisburn_miscellany/miscellany.html <i class="fa fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-Fred Kee, former Public Health Inspector at Lisburn, recalls the Council purchasing a S &amp; D [Freighter]({% link VF.md %}) in 1928 to replace horses. Scroll down the opening page to "Preface."
+Fred Kee, former Public Health Inspector at Lisburn, recalls the Council purchasing a S &amp; D [Freighter]({{site.baseurl}}{% link VF.md %}) in 1928 to replace horses. Scroll down the opening page to "Preface."
 
 # Details Of S&amp;D Vehicles 
 
@@ -151,7 +151,7 @@ A 1920's Epsom &amp; Ewell Freighter appeared in the feature film of Dads' Army.
 # Preserved Vehicles
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/Freighter%20Epsom.jpg" class="figure-img img-fluid rounded" alt="Freighter Epsom">
+  <img src="{{ site.baseurl }}/assets/Images/Freighter%20Epsom.jpg" class="figure-img img-fluid rounded" alt="Freighter Epsom">
   <!--<figcaption class="figure-caption text-center">Broadway Gardens Letchworth.</figcaption>-->
 </figure>
 
@@ -169,7 +169,7 @@ Photo and details of a Latil 4 x 4 built 1938 Reg. No. BMO 154. From November 19
 # Models
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/Model%203A.jpg" class="figure-img img-fluid rounded" alt="A model">
+  <img src="{{ site.baseurl }}/assets/Images/Model%203A.jpg" class="figure-img img-fluid rounded" alt="A model">
   <!--<figcaption class="figure-caption text-center">Broadway Gardens Letchworth.</figcaption>-->
 </figure>
 

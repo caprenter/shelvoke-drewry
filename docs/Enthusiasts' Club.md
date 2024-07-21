@@ -6,4 +6,4 @@ layout: page
 title: Enthusiasts' Club (Page Moved)
 background: '/assets/Images3/pic09.jpg'
 ---
-This page has been moved to [Enthusiast's Club]({% link Enthusiasts.md %})
+This page has been moved to [Enthusiast's Club]({{site.baseurl}}{% link Enthusiasts.md %})

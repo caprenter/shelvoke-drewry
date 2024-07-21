@@ -14,7 +14,7 @@ background: '/assets/Images5/T1.jpg'
 <p>An Associate Member of the Institute of Mechanical Engineers, he was also a former member of the Society of Motor Manufacturers and Traders, standards and technical board. </p>
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images/Tillson.jpg" class="figure-img img-fluid rounded" alt="Thomas William Tillson">
+  <img src="{{ site.baseurl }}/assets/Images/Tillson.jpg" class="figure-img img-fluid rounded" alt="Thomas William Tillson">
   <figcaption class="figure-caption text-center">Tom Tillson.</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ increased from £3 million to £25 million within a period of 10 years
 prior to 1979.</p>
 
 <figure class="figure w-100 text-center">
-  <img src="/assets/Images2/Malta%20Demo.jpg" class="figure-img img-fluid rounded" alt="An 'N' series still at work in Malta in 2003. &nbsp;Photo: Jaap Mikkers.">
+  <img src="{{ site.baseurl }}/assets/Images2/Malta%20Demo.jpg" class="figure-img img-fluid rounded" alt="An 'N' series still at work in Malta in 2003. &nbsp;Photo: Jaap Mikkers.">
   <figcaption class="figure-caption text-center">An 'N' series still at work in Malta in 2003. &nbsp;Photo: Jaap Mikkers.</figcaption>
 </figure>
 

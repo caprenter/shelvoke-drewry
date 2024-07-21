@@ -12,6 +12,6 @@
 {% endfor %}
 <div class="container gallery">
 {% for image in album %}
-    <a href="{{image.path}}" data-toggle="lightbox" data-gallery="example-gallery" data-caption="{{ altcaptitle }}"><img src="{{ thumbpath }}{{image.name | replace: directory,thumbpath }}" alt="{{ altcaptitle }}" title="{{ altcaptitle }}" class="img-fluid" style="max-width:200px"/></a>
+    <a href="{{ site.baseurl}}{{image.path}}" data-toggle="lightbox" data-gallery="example-gallery" data-caption="{{ altcaptitle }}"><img src="{{ site.baseurl}}{{ thumbpath }}{{image.name | replace: directory,thumbpath }}" alt="{{ altcaptitle }}" title="{{ altcaptitle }}" class="img-fluid" style="max-width:200px"/></a>
 {% endfor %}
 </div>

@@ -19,7 +19,7 @@ The site should be up on:
 
 Contributions are welcome.
 
-Make a ticket,and or fork the project and submit a pull request
+Make a ticket,and or fork the project and submit a pull request please.
 
 ## Authors and acknowledgment
 

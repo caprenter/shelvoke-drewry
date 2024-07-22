@@ -3181,7 +3181,14 @@ input[type="button"].btn-block {
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
-  white-space: nowrap; }
+  white-space: nowrap;
+}
+
+@media (max-width: 576px) {
+  .navbar-brand {
+    white-space: wrap; 
+  } }
+
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
 

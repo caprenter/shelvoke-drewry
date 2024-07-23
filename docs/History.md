@@ -81,7 +81,7 @@ War output included
 
 Towards the end of World War Shelvoke &amp; Drewry were commissioned to build 37 ft submersible craft for clandestine operations, despite having no previous experience of ship building.
 
-After over twenty years research <b>Tom Colville</b> has put the [results of his research <i class="fa fa-arrow-up-right-from-square" aria-hidden="true"></i>](http://www.welfreighter.info){:target="_blank" rel="noopener noreferrer"} onto the Internet.
+After over twenty years research <b>Tom Colville</b> has put the results of his research onto the Internet.(**NB** This link no longer works: http://www.welfreighter.info)
 
 Tom's late father Capt. Archibald Colville MOIsp KOSB was involved in sea trials of the Welfreighter based in Australia in 1945. 
 
@@ -231,11 +231,11 @@ vehicles]({{site.baseurl}}{% link Tech.md %})
 
 ## Historical Interest
 
-<b>Letchworth Garden City</b> is the first British Garden City, and the place where Shelvoke &amp; Drewry was founded in 1922, is of considerable interest as an example of pioneering development of planned communities. Three Websites give information about the First Garden City:-
+<b>Letchworth Garden City</b> is the first British Garden City, and the place where Shelvoke &amp; Drewry was founded in 1922, is of considerable interest as an example of pioneering development of planned communities. <del>Three</del> Two Websites give information about the First Garden City:-
 
-<b>Letchworth Garden City.</b> - <a href="http://www.letchworthgardencity.net" target="_blank">www.letchworthgardencity.net/</a>
+<del><b>Letchworth Garden City.</b> - <a href="http://www.letchworthgardencity.net" target="_blank">www.letchworthgardencity.net/</a></del>
 
-This site gives a history of the Garden City, books for sale, and links to other sites.
+<del>This site gives a history of the Garden City, books for sale, and links to other sites.</del>
 
 **Letchworth Garden City Heritage Foundation** - <a href="https://www.letchworth.com" target="_blank">www.letchworth.com</a> is the website of <b>the Letchworth Garden City Heritage Foundation </b>and carries information about the First Garden City Heritage Museum at Norton Way South, Letchworth. The museum is well worth a visit.
 

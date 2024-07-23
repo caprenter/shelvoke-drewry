@@ -11,7 +11,7 @@ background: '/assets/Images5/F7.jpg'
 
 This page aims to offer guidance in recognising a Shelvoke &amp; Drewry refuse collection vehicle and arriving at an approximate manufacturing date.
 
-There are just five main types to consider:-
+There are just six main types to consider:-
 
 1. The Freighter and the Mark II version. In production 1922 &#8211; 1952
 2. The New type 1937 - 1939

@@ -10,7 +10,7 @@ background: '/assets/Images5/F1.jpg'
 
 In 1922 Harry Shelvoke &amp; James Drewry founded Shelvoke &amp; Drewry to manufacture the innovative SD Freighter. With diminutive solid tyred wheels, steering and gears controlled by two tillers and economical running costs the two founders soon established a market for their light lorry.
 
-## 1922 The Original Freighter.
+## 1922 The Original Freighter
 
 Since economy was to be a major selling point of the SD Freighter the earliest models were kept as simple as possible. <a href="{{ site.baseurl}}/Literature.html" target="_blank">Kaleidoscope caption 16</a> tells us that a canopy for the driver was £25 extra. The photo may well be of the first Freighter. Note that it has been fitted with a raised height body. The low loading height was often an advantage but sometimes the body needed to be raised to suit existing loading docks. Photo supplied by Darren Chessum.
 

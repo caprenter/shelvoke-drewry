@@ -7,7 +7,7 @@ title: Vehicle Types
 background: '/assets/Images5/F7.jpg'
 ---
 
-# Shelvoke &amp; Drewry Refuse Collection Vehicle types.
+# Shelvoke &amp; Drewry Refuse Collection Vehicle types
 
 This page aims to offer guidance in recognising a Shelvoke &amp; Drewry refuse collection vehicle and arriving at an approximate manufacturing date.
 

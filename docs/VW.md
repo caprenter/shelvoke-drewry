@@ -8,7 +8,7 @@ background: '/assets/Images5/W1.jpg'
 ---
 
 
-# The 'W' Type 1946 - 1961.
+# The 'W' Type 1946 - 1961
 
 From &nbsp;1939 with the outbreak of &nbsp;World War II until it ended in 1945 S&amp;D were entirely engaged in war production apart from a small repair service for existing customers. 
 

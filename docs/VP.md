@@ -39,7 +39,7 @@ Unlike the Revopak, which was a continuous loader, the Maxipak was an intermitte
     <figcaption class="figure-caption text-center">Photo supplied by Roy Rowland.</figcaption>
   </figure>
 
-## 1978 The 'PN' type Revopak.
+## 1978 The 'PN' type Revopak
 
 The narrow bodied PN's had a similar Ogle designed tilting cab. The example shown is a 1982 PN Revopak ex-Isles of Scilly owned by Steve Jones from the Isle of Wight Reg No. SCY 786 X photographed at the Southern Counties Historic Vehicles Preservation Trust's rally at Edenbridge, Kent, in June 2009
 

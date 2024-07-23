@@ -6,11 +6,11 @@ layout: page
 title: New or 'E' Type
 background: '/assets/Images5/F9.jpg'
 ---
-# The New Or 'E' Type 1937 - 1939.
+# The New Or 'E' Type 1937 - 1939
 
 It was not until 1937 that it was deemed necessary to introduce a new design to be manufactured alongside the SD Freighter.
 
-## 1937 The New or 'E' type.
+## 1937 The New or 'E' type
 
 In 1937 the New type or E type appeared. One of these vehicles is shown above at an exhibition equipped with a moving floor body. The engine was now placed in front of the driver. A conventional steering wheel was provided on later versions, but a tiller still controlled the gear changing. Electric starting was now standard. I don't believe many New Types were manufactured and no more were produced after World War II. (see <a href="{{ site.baseurl}}/Literature.html" target="_blank">Kaleidoscope captions 73.74&amp; 75</a>.) 
 

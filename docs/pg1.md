@@ -18,7 +18,7 @@ background: '/assets/Images3/pic20.jpeg'
   <figcaption class="figure-caption text-center">Visitors to the SD Centenary Celebration at the Broadway Hotel in September 2022.</figcaption>
 </figure>
 
-### From the Editor Brian Carpenter.
+### From the Editor Brian Carpenter
 It was with a very heavy heart that I wrote &#8220;Final Issue&#8221; above. 2023 has proved to be a very difficult year for me brought on, I believe by a Covid booster jab in October 2022. It feels almost unbelievable that so far the doctors I've been seeing have been unable to discover why week by week I've grown weaker and weaker. One suggestion is that it's simply that I've had too many birthdays! So I felt I had to decide to release myself from the commitment to produce a Newsletter every quarter as I've done for over twenty years now.
 
 BUT IN NO WAY DOES THIS MEAN AN END TO THE SD ENTHUSIASTS' CLUB. JUST SOME ADJUSTMENTS.
@@ -230,7 +230,7 @@ Tommy Moore sent in this photo of the ex-Barking 1972 TZ Gully Emptier Reg. No. 
   <!-- <figcaption class="figure-caption text-center">ex-Barking 1972 TZ Gully Emptier</figcaption> -->
 </figure>
 
-### Two More Defiant Fork Trucks Survive.
+### Two More Defiant Fork Trucks Survive
 
 Malcolm Bates tells me that he has located two more Defiant fork trucks that have survived. Perhaps I'll have photos for you next time in the News Bulletin.
 

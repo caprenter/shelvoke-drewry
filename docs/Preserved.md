@@ -235,7 +235,7 @@ An ex- Huddersfield tanker <b>FVH 619 </b>is under restoration by Jim Wakefield 
 Jim Wakefield also has <b>YRE 367 </b>a Cesspool Emptier for restoration.
 
 
-## Point Cook Air Force Base Museum. Melbourne, Australia.
+## Point Cook Air Force Base Museum. Melbourne, Australia
 
 John Williams a volunteer professional engineer at the Museum has sent photographs of the recently restored SD ['W' Type]({{site.baseurl}}{% link VW.md %}) airport fire tender which is one of a batch of ten built in 1950/51.
 

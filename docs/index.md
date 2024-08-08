@@ -17,7 +17,7 @@ background: '/assets/Images3/pic07.jpg'
 
 Sadly Brian died in December 2023, so the maintenance of this site has passed to one of his sons, David.
 
-A redesign was undertaken in July 2024 to make the content of the site more easily discoverable and to make site maintenance more manageable. 
+A redesign was undertaken in July 2024 to make the content of the site more easily discoverable and to make site maintenance more manageable.
 
 Wherever possible the original text has been retained as Brian wrote it. <br/>When you read 'I' it means Brian.
 </div>
@@ -25,3 +25,15 @@ Wherever possible the original text has been retained as Brian wrote it. <br/>Wh
 This site is entirely the work of the author, but I unreservedly acknowledge my debt to Nick Baldwin and William Negus for their book Kaleidoscope of Shelvoke & Drewry (Marshall Harris & Balwin Ltd., 1980). The authors of that volume were able to draw upon memories of those who remembered the early days of the foundation of Shelvoke & Drewry in 1922, and so it has become an invaluable resource for anyone wishing to learn about S&D.
 
 As a result of this website the Shelvoke & Drewry Enthusiasts' Club was formed as a means of contact between all those with an interest in the company. I hope you find the information you are seeking here. If not please e-mail me, and I'll help if I can. Additional information about Shelvoke & Drewry is always very welcome. 
+
+## The old site
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="{{ site.baseurl }}/assets/Images/old-site.jpg" width="100%" alt="S&D Old Site Banner" /><br/>
+        </div>
+    </div>
+</div>
+
+Brian's original site as it was left when he died can be seen at [https://caprenter.gitlab.io/shelvoke-drewry/](https://caprenter.gitlab.io/shelvoke-drewry/)

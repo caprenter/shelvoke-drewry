@@ -18,7 +18,8 @@ email: info@shelvoke-drewry.co.uk
 author: The Unofficial Shelvoke & Drewry Website
 description: >- # this means to ignore newlines until "baseurl:"
   This website was first created in the early summer of 2002 by Brian Carpenter to preserve the name, history and reputation of Shelvoke & Drewry Ltd., of Letchworth, Hertfordshire. U.K. who were manufacturers of municipal vehicles for almost 70 years.
-baseurl: "/shelvoke-drewry" # the subpath of your site, e.g. /blog
+# baseurl: "/shelvoke-drewry" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  caprenter
